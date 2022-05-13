@@ -1,36 +1,108 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Magorův noční zpěv
+  identifier: urn:uuid:c822fcba-7794-43bd-bf3a-3f645b6e0b1f
+  author: Ivan Martin Jirous
+  publisher: Městská knihovna v Praze
+  modified: '2020-06-17T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - magoruv_nocni_zpev_001.html
+  - magoruv_nocni_zpev_002.html
+  - magoruv_nocni_zpev_003.html
+  - magoruv_nocni_zpev_004.html
+  - magoruv_nocni_zpev_005.html
+  - magoruv_nocni_zpev_006.html
+  - magoruv_nocni_zpev_007.html
+  - magoruv_nocni_zpev_008.html
+  - magoruv_nocni_zpev_009.html
+  - magoruv_nocni_zpev_010.html
+  - magoruv_nocni_zpev_011.html
+  - magoruv_nocni_zpev_012.html
+  - magoruv_nocni_zpev_013.html
+  - magoruv_nocni_zpev_014.html
+  - magoruv_nocni_zpev_015.html
+  - magoruv_nocni_zpev_016.html
+  - magoruv_nocni_zpev_017.html
+  - magoruv_nocni_zpev_018.html
+  - magoruv_nocni_zpev_019.html
+  - magoruv_nocni_zpev_020.html
+  - magoruv_nocni_zpev_021.html
+  - magoruv_nocni_zpev_022.html
+  - magoruv_nocni_zpev_023.html
+  - magoruv_nocni_zpev_024.html
+  - magoruv_nocni_zpev_025.html
+  - magoruv_nocni_zpev_026.html
+  - magoruv_nocni_zpev_027.html
+  - magoruv_nocni_zpev_028.html
+  - magoruv_nocni_zpev_029.html
+  - magoruv_nocni_zpev_030.html
+  - magoruv_nocni_zpev_031.html
+  - magoruv_nocni_zpev_032.html
+  - magoruv_nocni_zpev_033.html
+  - magoruv_nocni_zpev_034.html
+  - magoruv_nocni_zpev_035.html
+  - magoruv_nocni_zpev_036.html
+  - magoruv_nocni_zpev_037.html
+  - magoruv_nocni_zpev_038.html
+  - magoruv_nocni_zpev_039.html
+  - magoruv_nocni_zpev_040.html
+  - magoruv_nocni_zpev_041.html
+  - magoruv_nocni_zpev_042.html
+  - magoruv_nocni_zpev_043.html
+  - magoruv_nocni_zpev_044.html
+  - magoruv_nocni_zpev_045.html
+  - magoruv_nocni_zpev_046.html
+  - magoruv_nocni_zpev_047.html
+  - magoruv_nocni_zpev_048.html
+  - magoruv_nocni_zpev_049.html
+  - magoruv_nocni_zpev_050.html
+  - magoruv_nocni_zpev_051.html
+  - magoruv_nocni_zpev_052.html
+  - magoruv_nocni_zpev_053.html
+  - magoruv_nocni_zpev_054.html
+  - magoruv_nocni_zpev_055.html
+  - magoruv_nocni_zpev_056.html
+  - magoruv_nocni_zpev_057.html
+  - magoruv_nocni_zpev_058.html
+  - magoruv_nocni_zpev_059.html
+  - magoruv_nocni_zpev_060.html
+  - magoruv_nocni_zpev_061.html
+  - magoruv_nocni_zpev_062.html
+  - magoruv_nocni_zpev_063.html
+  - magoruv_nocni_zpev_064.html
+  - magoruv_nocni_zpev_065.html
+  - magoruv_nocni_zpev_066.html
+  - magoruv_nocni_zpev_067.html
+  - magoruv_nocni_zpev_068.html
+  - magoruv_nocni_zpev_069.html
+  - magoruv_nocni_zpev_070.html
+  - magoruv_nocni_zpev_071.html
+  - magoruv_nocni_zpev_072.html
+  - magoruv_nocni_zpev_073.html
+  - magoruv_nocni_zpev_074.html
+  - magoruv_nocni_zpev_075.html
+  - magoruv_nocni_zpev_076.html
+  - magoruv_nocni_zpev_077.html
+  - magoruv_nocni_zpev_078.html
+  - magoruv_nocni_zpev_079.html
+  - magoruv_nocni_zpev_080.html
+  - magoruv_nocni_zpev_081.html
+  - magoruv_nocni_zpev_082.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---

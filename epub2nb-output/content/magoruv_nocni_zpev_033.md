@@ -1,0 +1,29 @@
+---
+contentType: prose
+---
+
+– – –
+
+Přišel mě nasrat
+
+asi
+
+asistent z Architektury
+
+kurva
+
+Karel Doležel
+
+kdyby nepřišel za mnou
+
+snad bych to oželel
+
+leč přišel
+
+Tak život můj už jenom žal
+
+příště přijde zas
+
+ňákej
+
+Doležal

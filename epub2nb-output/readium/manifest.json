@@ -1,0 +1,678 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Magorův noční zpěv",
+    "identifier": "urn:uuid:c822fcba-7794-43bd-bf3a-3f645b6e0b1f",
+    "author": "Ivan Martin Jirous",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-06-17T00:00:00.000Z",
+    "published": "2019-06-21T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_082.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/magoruv_no_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/20_magoruv_nocni_zpev__fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "1. Za úsvitu v Trutnově",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_006.xhtml#toc_marker-3"
+    },
+    {
+      "title": "2. Laďovi Kořenovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_007.xhtml#toc_marker-4"
+    },
+    {
+      "title": "3. Holkám z Náměště",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_008.xhtml#toc_marker-5"
+    },
+    {
+      "title": "5. Aramu Jinayanovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_009.xhtml#toc_marker-6"
+    },
+    {
+      "title": "6. Milostná I.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_010.xhtml#toc_marker-7"
+    },
+    {
+      "title": "7. Milostná II.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_011.xhtml#toc_marker-8"
+    },
+    {
+      "title": "8.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_012.xhtml#toc_marker-9"
+    },
+    {
+      "title": "9.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_013.xhtml#toc_marker-10"
+    },
+    {
+      "title": "10.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_014.xhtml#toc_marker-11"
+    },
+    {
+      "title": "11.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_015.xhtml#toc_marker-12"
+    },
+    {
+      "title": "12. Sacherovi Masochovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_016.xhtml#toc_marker-13"
+    },
+    {
+      "title": "13.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_017.xhtml#toc_marker-14"
+    },
+    {
+      "title": "14.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_018.xhtml#toc_marker-15"
+    },
+    {
+      "title": "15. Filosofický diskurs v útrobách Velryby",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_019.xhtml#toc_marker-16"
+    },
+    {
+      "title": "18. Psům",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_020.xhtml#toc_marker-17"
+    },
+    {
+      "title": "21. Omluvenka z hospody Pod Komínem v Dačicích",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_021.xhtml#toc_marker-18"
+    },
+    {
+      "title": "22.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_022.xhtml#toc_marker-19"
+    },
+    {
+      "title": "24. Jilská 22",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_023.xhtml#toc_marker-20"
+    },
+    {
+      "title": "27.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_024.xhtml#toc_marker-21"
+    },
+    {
+      "title": "28.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_025.xhtml#toc_marker-22"
+    },
+    {
+      "title": "30. Opatrná marginálie k současné vnitropolitické situaci",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_026.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Na prahu pětašedesátky",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_027.xhtml#toc_marker-24"
+    },
+    {
+      "title": "– – – (Nazdávalo sa mi)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_028.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Báseň pro Maruš",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_029.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Morytát o tragédii v hospodě Pod Komínem",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_030.xhtml#toc_marker-27"
+    },
+    {
+      "title": "Na Břežance",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_031.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Garçone odnášej",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_032.xhtml#toc_marker-29"
+    },
+    {
+      "title": "– – – (Přišel mě nasrat)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_033.xhtml#toc_marker-30"
+    },
+    {
+      "title": "– – – (Ty žiješ na prknech)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_034.xhtml#toc_marker-31"
+    },
+    {
+      "title": "Odchod z Oázy",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_035.xhtml#toc_marker-32"
+    },
+    {
+      "title": "Nonstop Pytel",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_036.xhtml#toc_marker-33"
+    },
+    {
+      "title": "Kopřiva",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_037.xhtml#toc_marker-34"
+    },
+    {
+      "title": "Za barem před barem",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_038.xhtml#toc_marker-35"
+    },
+    {
+      "title": "– – – (Magor se raduje)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_039.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Na Neklance",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_040.xhtml#toc_marker-37"
+    },
+    {
+      "title": "– – – (Víte vy vůbec kdo je Jiří Benda?)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_041.xhtml#toc_marker-38"
+    },
+    {
+      "title": "Na Neklance [III.]",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_042.xhtml#toc_marker-39"
+    },
+    {
+      "title": "Nepodařený odchod zpod Komína",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_043.xhtml#toc_marker-40"
+    },
+    {
+      "title": "Když mě David B. v Poličce na chvíli opustil hledaje mobil",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_044.xhtml#toc_marker-41"
+    },
+    {
+      "title": "Františku Hamzovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_045.xhtml#toc_marker-42"
+    },
+    {
+      "title": "V pondělí 10. května na Oáze",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_046.xhtml#toc_marker-43"
+    },
+    {
+      "title": "Na Neklance [IV.]",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_047.xhtml#toc_marker-44"
+    },
+    {
+      "title": "– – – (Na zahradě v Aspektu)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_048.xhtml#toc_marker-45"
+    },
+    {
+      "title": "Když po mně pořád chtějí nějaké psaní",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_049.xhtml#toc_marker-46"
+    },
+    {
+      "title": "Při hře s Běžcem",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_050.xhtml#toc_marker-47"
+    },
+    {
+      "title": "– – – (Ne že nejhorší přijde na konec)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_051.xhtml#toc_marker-48"
+    },
+    {
+      "title": "– – – (Snad po desáté slaví narozeniny)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_052.xhtml#toc_marker-49"
+    },
+    {
+      "title": "Petrovi Placákovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_053.xhtml#toc_marker-50"
+    },
+    {
+      "title": "O staré lásce",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_054.xhtml#toc_marker-51"
+    },
+    {
+      "title": "Pýcha",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_055.xhtml#toc_marker-52"
+    },
+    {
+      "title": "– – – (Jsme na vernisáži obrazů)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_056.xhtml#toc_marker-53"
+    },
+    {
+      "title": "Odchod z Oázy II.",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_057.xhtml#toc_marker-54"
+    },
+    {
+      "title": "– – – (V hospůdce Pepíček Čečil krásně hrál)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_058.xhtml#toc_marker-55"
+    },
+    {
+      "title": "Důrazná řeč k Alžbětě Kopecké",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_059.xhtml#toc_marker-56"
+    },
+    {
+      "title": "Olivero Malinovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_060.xhtml#toc_marker-57"
+    },
+    {
+      "title": "Literární kavárna v Řetězové",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_061.xhtml#toc_marker-58"
+    },
+    {
+      "title": "– – – (S Mejlou stávali často jsme u pípy)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_062.xhtml#toc_marker-59"
+    },
+    {
+      "title": "– – – (Rád zažil bych zda šumí tak hvozdy na Šumavě)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_063.xhtml#toc_marker-60"
+    },
+    {
+      "title": "Fúzistovi (V.)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_064.xhtml#toc_marker-61"
+    },
+    {
+      "title": "Když jsme ve 23:21 hod. vyhazovali s výčepákem Jiřím Péťu z Oázy",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_065.xhtml#toc_marker-62"
+    },
+    {
+      "title": "Petrovi Bohunovskému",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_066.xhtml#toc_marker-63"
+    },
+    {
+      "title": "Epitaf",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_067.xhtml#toc_marker-64"
+    },
+    {
+      "title": "Zdeňkovi Mertovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_068.xhtml#toc_marker-65"
+    },
+    {
+      "title": "– – – (Chtěl napsat jsem svatební báseň o sezdání)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_069.xhtml#toc_marker-66"
+    },
+    {
+      "title": "Marginálie k nejslavnější svatbě desetiletí",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_070.xhtml#toc_marker-67"
+    },
+    {
+      "title": "Ztichlá klika",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_071.xhtml#toc_marker-68"
+    },
+    {
+      "title": "Petrovi Uhlovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_072.xhtml#toc_marker-69"
+    },
+    {
+      "title": "– – – (Před záchodem v Oáze)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_073.xhtml#toc_marker-70"
+    },
+    {
+      "title": "Když Péťa Vaněček po ránuhledal svůj joint",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_074.xhtml#toc_marker-71"
+    },
+    {
+      "title": "Jiřímu Rejtharovi",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_075.xhtml#toc_marker-72"
+    },
+    {
+      "title": "Haně Brandejské",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_076.xhtml#toc_marker-73"
+    },
+    {
+      "title": "– – – (Nejvíce Jiří Benda šťasten je)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_077.xhtml#toc_marker-74"
+    },
+    {
+      "title": "– – – (Ten pokérovanej popelář)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_078.xhtml#toc_marker-75"
+    },
+    {
+      "title": "– – – (Zítra odjíždím po šesté ráno)",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_079.xhtml#toc_marker-76"
+    },
+    {
+      "title": "Komentáře k jednotlivým textům",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_080.xhtml#toc_marker-77"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/magoruv_nocni_zpev_081.xhtml#toc_marker-78"
+    }
+  ]
+}

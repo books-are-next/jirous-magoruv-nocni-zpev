@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:c822fcba-7794-43bd-bf3a-3f645b6e0b1f" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Magorův noční zpěv</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>1. Za úsvitu v Trutnově</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_006.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>2. Laďovi Kořenovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_007.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>3. Holkám z Náměště</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_008.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>5. Aramu Jinayanovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_009.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>6. Milostná I.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_010.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>7. Milostná II.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_011.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>8.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_012.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>9.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_013.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>10.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_014.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>11.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_015.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>12. Sacherovi Masochovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_016.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>13.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_017.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>14.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_018.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>15. Filosofický diskurs v útrobách Velryby</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_019.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>18. Psům</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_020.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>21. Omluvenka z hospody Pod Komínem v Dačicích</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_021.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>22.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_022.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>24. Jilská 22</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_023.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>27.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_024.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>28.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_025.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>30. Opatrná marginálie k současné vnitropolitické situaci</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_026.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Na prahu pětašedesátky</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_027.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>– – – (Nazdávalo sa mi)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_028.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Báseň pro Maruš</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_029.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Morytát o tragédii v hospodě Pod Komínem</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_030.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Na Břežance</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_031.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Garçone odnášej</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_032.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>– – – (Přišel mě nasrat)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_033.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>– – – (Ty žiješ na prknech)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_034.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Odchod z Oázy</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_035.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Nonstop Pytel</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_036.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Kopřiva</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_037.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Za barem před barem</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_038.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>– – – (Magor se raduje)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_039.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Na Neklance</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_040.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>– – – (Víte vy vůbec kdo je Jiří Benda?)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_041.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Na Neklance [III.]</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_042.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Nepodařený odchod zpod Komína</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_043.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Když mě David B. v Poličce na chvíli opustil hledaje mobil</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_044.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Františku Hamzovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_045.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>V pondělí 10. května na Oáze</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_046.xhtml#toc_marker-43"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Na Neklance [IV.]</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_047.xhtml#toc_marker-44"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>– – – (Na zahradě v Aspektu)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_048.xhtml#toc_marker-45"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Když po mně pořád chtějí nějaké psaní</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_049.xhtml#toc_marker-46"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Při hře s Běžcem</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_050.xhtml#toc_marker-47"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>– – – (Ne že nejhorší přijde na konec)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_051.xhtml#toc_marker-48"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>– – – (Snad po desáté slaví narozeniny)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_052.xhtml#toc_marker-49"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Petrovi Placákovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_053.xhtml#toc_marker-50"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>O staré lásce</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_054.xhtml#toc_marker-51"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Pýcha</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_055.xhtml#toc_marker-52"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>– – – (Jsme na vernisáži obrazů)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_056.xhtml#toc_marker-53"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Odchod z Oázy II.</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_057.xhtml#toc_marker-54"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>– – – (V hospůdce Pepíček Čečil krásně hrál)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_058.xhtml#toc_marker-55"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Důrazná řeč k Alžbětě Kopecké</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_059.xhtml#toc_marker-56"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Olivero Malinovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_060.xhtml#toc_marker-57"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Literární kavárna v Řetězové</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_061.xhtml#toc_marker-58"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>– – – (S Mejlou stávali často jsme u pípy)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_062.xhtml#toc_marker-59"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>– – – (Rád zažil bych zda šumí tak hvozdy na Šumavě)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_063.xhtml#toc_marker-60"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Fúzistovi (V.)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_064.xhtml#toc_marker-61"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Když jsme ve 23:21 hod. vyhazovali s výčepákem Jiřím Péťu z Oázy</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_065.xhtml#toc_marker-62"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Petrovi Bohunovskému</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_066.xhtml#toc_marker-63"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Epitaf</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_067.xhtml#toc_marker-64"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Zdeňkovi Mertovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_068.xhtml#toc_marker-65"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>– – – (Chtěl napsat jsem svatební báseň o sezdání)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_069.xhtml#toc_marker-66"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Marginálie k nejslavnější svatbě desetiletí</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_070.xhtml#toc_marker-67"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Ztichlá klika</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_071.xhtml#toc_marker-68"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Petrovi Uhlovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_072.xhtml#toc_marker-69"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>– – – (Před záchodem v Oáze)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_073.xhtml#toc_marker-70"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Když Péťa Vaněček po ránuhledal svůj joint</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_074.xhtml#toc_marker-71"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Jiřímu Rejtharovi</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_075.xhtml#toc_marker-72"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Haně Brandejské</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_076.xhtml#toc_marker-73"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>– – – (Nejvíce Jiří Benda šťasten je)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_077.xhtml#toc_marker-74"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>– – – (Ten pokérovanej popelář)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_078.xhtml#toc_marker-75"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>– – – (Zítra odjíždím po šesté ráno)</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_079.xhtml#toc_marker-76"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Komentáře k jednotlivým textům</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_080.xhtml#toc_marker-77"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/magoruv_nocni_zpev_081.xhtml#toc_marker-78"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Nazdávalo sa mi
@@ -19,3 +21,5 @@ A vraviel na to Erik,
      To nerobilo ani Štb,
 
      čo robí Magor
+
+</section>

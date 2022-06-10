@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 13.
 
 Chtěli jsme s Liborem
@@ -59,3 +61,5 @@ Tož nezoufejte, snad pro ni něco tu je
 A ukázka na podtitulek reklamy poslední:
 
 Přednostně zařizujeme služby pohřební.
+
+</section>

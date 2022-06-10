@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 21.  
 Omluvenka z hospody  
 Pod Komínem v Dačicích
@@ -19,3 +21,5 @@ Slibuju Ti,
 Ledaže bych se před Tebou
 
      neměl kam schovat.
+
+</section>

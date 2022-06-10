@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 10.
 
 Potkal jsem Radima
@@ -17,3 +19,5 @@ Je to kamarád Fandy Kolmana
      jakoby do huby mi
 
      spadla mana
+
+</section>

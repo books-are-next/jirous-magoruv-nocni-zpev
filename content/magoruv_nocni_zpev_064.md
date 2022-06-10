@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Fúzistovi (V.)
 
 Tak prapodivně dnes završujem fúzi:
@@ -35,3 +37,5 @@ Stůj hrdě tam, Andreji Nikolaji.
 Čni hrdě.
 
 Jistě.
+
+</section>

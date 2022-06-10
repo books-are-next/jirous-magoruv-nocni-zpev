@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 1.  
 Za úsvitu v Trutnově
 
@@ -14,3 +16,5 @@ lehce zamrdá
 Dagmarka doposud zdánlivě spící
 
 hbitě vzbudí se jak čamrda
+
+</section>

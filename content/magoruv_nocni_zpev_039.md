@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Magor se raduje
@@ -23,3 +25,5 @@ doufám že v milé mé nevzbudí přílišný hněv
 Až Dáša Vokatá uvidí magazín
 
 zařve jen: Petruško zhyň!
+
+</section>

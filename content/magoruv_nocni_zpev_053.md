@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Petrovi Placákovi
 
 Seděl jsem U Smolíků
@@ -27,3 +29,5 @@ Co bys chtěl víc hovado tupé
 v divokém čase předjarním
 
 Co já vím?
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Zdeňkovi Mertovi
 
 Fotografové jsou kořistníci
@@ -47,3 +49,5 @@ Tam po duši
      natož po fotografii
 
      není stopy ani
+
+</section>

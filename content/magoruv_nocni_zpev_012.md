@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 8.
 
 Píše mi Petruška laskavě:
@@ -11,3 +13,5 @@ Píše mi Petruška laskavě:
 Dík za včas vyslovená slova
 
      z domu oběšencova.
+
+</section>

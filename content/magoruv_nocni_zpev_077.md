@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Nejvíce Jiří Benda šťasten je,
@@ -27,3 +29,5 @@ na něhož vánkem něžným
 listí zlatavého se snes
 
 spršek.
+
+</section>

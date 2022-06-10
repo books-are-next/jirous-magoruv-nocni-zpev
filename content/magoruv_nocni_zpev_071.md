@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Ztichlá klika
 
 Ať se o nás
@@ -21,3 +23,5 @@ Tolik něžné a cudné
      to ti říkám:
 
      i na dveřích ztichla klika
+
+</section>

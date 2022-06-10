@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Jiřímu Rejtharovi
 
 Musíš mít hroší kůži
@@ -19,3 +21,5 @@ Po stěnách leze
      sliz
 
      už konečně zmiz
+
+</section>

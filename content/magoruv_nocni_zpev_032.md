@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Garçone odnášej
 
 Nechci mít prázdných
@@ -15,3 +17,5 @@ Co kdybych potom
 v očích věčnosti
 
 byl alkoholik?
+
+</section>

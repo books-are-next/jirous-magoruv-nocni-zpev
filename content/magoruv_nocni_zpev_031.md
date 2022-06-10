@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na Břežance
 
 Magor vyžadoval od Mati
@@ -17,3 +19,5 @@ Maťa řek Magorovi:
      slovo penále,
 
      a budeš mít namále!
+
+</section>

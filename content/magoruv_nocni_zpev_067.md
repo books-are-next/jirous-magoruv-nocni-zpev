@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Epitaf
 
 (Nazdávalo sa mi
@@ -27,3 +29,5 @@ Zbyněk Prokop
 Tak dost
 
      Zbyněk vám už nic nepoví
+
+</section>

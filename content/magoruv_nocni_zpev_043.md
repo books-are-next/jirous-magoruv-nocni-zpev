@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Nepodařený odchod zpod Komína
 
 Odcházeje už
@@ -13,3 +15,5 @@ Kam zas tak chvátáš?
      čeká nás tady egyptská úza
 
 Hrůza
+
+</section>

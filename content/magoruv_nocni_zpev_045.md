@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Františku Hamzovi
 
 S Alinou mluvili jsme
@@ -15,3 +17,5 @@ S Alinou mluvili jsme
 I já jsem Zálesík
 
      sem ruku a drž se pevně
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Za barem před barem
 
 Víš kolik je lidského neštěstí?
@@ -23,3 +25,5 @@ Holenku
      jim lžou
 
      a jejich lži barmani netečně vyslechnou
+
+</section>

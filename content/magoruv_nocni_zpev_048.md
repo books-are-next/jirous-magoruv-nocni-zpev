@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Na zahradě v Aspektu
@@ -17,3 +19,5 @@ Magor mu odvětil:
 Máš snad sebou
 
      notebook?
+
+</section>

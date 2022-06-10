@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Magorova summa III](https://search.mlp.cz/cz/titul/magorova-summa/4205911/) tak, jak bylo vydáno v Praze nakladatelstvím Torst v roce 2015. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,3 +17,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 Verze 1.1 z 16. 6. 2020.
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

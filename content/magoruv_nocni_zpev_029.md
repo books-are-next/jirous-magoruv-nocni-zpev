@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Báseň pro Maruš
 
 Naposledy říkám ti,
@@ -29,3 +31,5 @@ My máme
      prosímtě,
 
      hlavně neruš
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Odchod z Oázy II.
 
 Musím jít domů
@@ -15,3 +17,5 @@ pod peřinou
 Vychládá každou
 
 vteřinou
+
+</section>

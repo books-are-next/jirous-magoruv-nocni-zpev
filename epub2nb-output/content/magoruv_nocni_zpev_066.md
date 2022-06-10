@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Petrovi Bohunovskému
 
 Nesmíš si myslet
@@ -47,3 +49,5 @@ Profesore Rezku
      kdy naposled
 
      dostal jsi přes držku?
+
+</section>

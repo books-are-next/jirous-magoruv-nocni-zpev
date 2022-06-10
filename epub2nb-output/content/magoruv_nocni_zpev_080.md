@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Komentáře k jednotlivým textům
 
 Opatrná marginálie k současné vnitropolitické situaci
@@ -23,3 +25,5 @@ Při hře s Běžcem
 Snad po desáté
 
 Tento text je ve v 1. knižním vydání (Maťa, Praha 2013) otištěn rovněž ve faksimile rkp. (s. 67); datace doplněna podle informace od nakladatele Lubora Mati.
+
+</section>

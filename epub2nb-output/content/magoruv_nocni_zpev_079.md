@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Zítra odjíždím
@@ -23,3 +25,5 @@ Jak zpívá Dáša
      tak mě semel
 
      nebo nesemel
+
+</section>

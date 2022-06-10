@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 V pondělí 10. května na Oáze
 
 Ačkoliv po víkendu
@@ -25,3 +27,5 @@ Potom mi došlo: narodil se Patrik.
 Tak šťastná událost zapít se musí
 
 i kdybych při tom měl vypustit duši
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Víte vy vůbec
@@ -57,3 +59,5 @@ Jak pravil Bondy
      na život a smrt
 
      se vyser
+
+</section>

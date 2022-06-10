@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Jsme na vernisáži obrazů
@@ -37,3 +39,5 @@ Tvrdili kunsthistorici
      pouze obrazy svými
 
      estetizuje vlastní náš hnus
+
+</section>

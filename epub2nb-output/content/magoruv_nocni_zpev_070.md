@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Marginálie k nejslavnější  
 svatbě desetiletí
 
@@ -28,3 +30,5 @@ radši rozveselte tu svatební chasu.
 Nekoukejte času, co zbývá vám, na zuby
 
 každý se řítí sám do vlastní záhuby.
+
+</section>

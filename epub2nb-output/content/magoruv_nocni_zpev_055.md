@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Pýcha
 
 Liboru Krejcarovi
@@ -21,3 +23,5 @@ Pavučinou mne udus
 Strašlivá svině je pýcha
 
      cha chá
+
+</section>

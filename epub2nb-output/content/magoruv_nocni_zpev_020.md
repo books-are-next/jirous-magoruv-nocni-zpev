@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 18.  
 Psům
 
@@ -28,3 +30,5 @@ Když jsem se
      nikoli Arab:
 
 Jseš srab!
+
+</section>

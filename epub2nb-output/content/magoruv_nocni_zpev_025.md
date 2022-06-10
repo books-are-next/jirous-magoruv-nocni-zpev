@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 28.
 
 Když vstoupil jsem
@@ -35,3 +37,5 @@ Než život úžasný
      radši ať pro mne už
 
      přijde si Zubatá
+
+</section>

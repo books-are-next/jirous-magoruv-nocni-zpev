@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 30.  
 Opatrná marginálie k současné  
 vnitropolitické situaci
@@ -27,3 +29,5 @@ Ach, ta doba!
 Ach, ty doby!
 
 Ty kundy!
+
+</section>

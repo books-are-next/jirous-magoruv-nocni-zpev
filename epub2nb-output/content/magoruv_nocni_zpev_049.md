@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Když po mně pořád chtějí  
 nějaké psaní
 
@@ -16,3 +18,5 @@ jak mi dobře bylo
 ve Staré Říši
 
 za totáče
+
+</section>

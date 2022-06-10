@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Přišel mě nasrat
@@ -27,3 +29,5 @@ příště přijde zas
 ňákej
 
 Doležal
+
+</section>

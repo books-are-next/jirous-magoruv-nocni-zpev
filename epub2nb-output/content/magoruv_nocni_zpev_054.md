@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 O staré lásce
 
 Mladě Opočenské
@@ -31,3 +33,5 @@ Sušila jsem ho dva dny
 Na kanálek
 
      už ne
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Když Péťa Vaněček po ránu  
 hledal svůj joint
 
@@ -62,3 +64,5 @@ A tak i vizuální báseň
      sv. Máří nikdy nevyhulená
 
 au
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na prahu pětašedesátky
 
 Keď som sa opäť
@@ -23,3 +25,5 @@ Košice jsou rodu množného
 vždyť ani těch píčí
 
 nečeká mne už mnoho
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Rád zažil bych zda šumí tak hvozdy na Šumavě
@@ -17,3 +19,5 @@ Ach voní-li tak celý šumavský prales
 jak rád bych do něho
 
 s lahví slivovice zalez
+
+</section>

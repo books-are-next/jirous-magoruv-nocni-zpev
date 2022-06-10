@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 – – –
 
 Chtěl napsat jsem
@@ -33,3 +35,5 @@ Chtěl napsat báseň jsem
      jež dosud
 
      v uchu mi zní
+
+</section>

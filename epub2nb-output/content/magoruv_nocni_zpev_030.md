@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Morytát o tragédii v hospodě  
 Pod Komínem
 
@@ -66,3 +68,5 @@ Padouch činu toho odporného štamgast z Pod Komína Kadlec
 zjistiv že padá klec uprchl do Lidéřovic
 
 Co byste chtěli slyšet víc
+
+</section>

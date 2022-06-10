@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Literární kavárna v Řetězové
 
 Vždyť život mohl by být
@@ -25,3 +27,5 @@ Viď, málem zapomněl jsem
      na Zdeňka Mertu
 
 K čertu!
+
+</section>

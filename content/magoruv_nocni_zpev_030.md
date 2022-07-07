@@ -33,13 +33,13 @@ Pak odletěl černý čáp
 
 štamgasti oddechli si: černý čáp
 
-                    prokleté znamení
+            prokleté znamení
 
-                    konečně zmizel
+            konečně zmizel
 
-                    s ním navždy odešla
+            s ním navždy odešla
 
-                    i naše svízel
+            i naše svízel
 
 Leč ve chvíli té
 

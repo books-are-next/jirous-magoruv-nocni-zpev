@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Na\_Břežance"
+contentType: poetry
 ---
 
 <section>
-
-Na Břežance
 
 Magor vyžadoval od Mati
 

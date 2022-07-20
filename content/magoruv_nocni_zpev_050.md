@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Při hře s\_Běžcem"
+contentType: poetry
 ---
 
 <section>
-
-Při hře s Běžcem
 
 Dobyl jsi zpátky věž
 

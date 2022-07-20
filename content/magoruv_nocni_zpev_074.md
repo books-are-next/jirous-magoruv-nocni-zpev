@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Když Péťa Vaněček po\_ránuhledal svůj joint"
+contentType: poetry
 ---
 
 <section>
-
-Když Péťa Vaněček po ránu  
-hledal svůj joint
 
 Včera to zabalili
 

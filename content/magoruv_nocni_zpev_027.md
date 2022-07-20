@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Na\_prahu pětašedesátky"
+contentType: poetry
 ---
 
 <section>
-
-Na prahu pětašedesátky
 
 Keď som sa opäť
 

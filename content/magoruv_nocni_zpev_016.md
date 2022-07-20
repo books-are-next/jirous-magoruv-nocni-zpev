@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 12\.Sacherovi Masochovi
+contentType: poetry
 ---
 
 <section>
-
-12.  
-Sacherovi Masochovi
 
 (ve spolupráci s Honzíkem Kvasničkou)
 

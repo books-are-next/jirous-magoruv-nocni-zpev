@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Marginálie k\_nejslavnější svatbě desetiletí"
+contentType: poetry
 ---
 
 <section>
-
-Marginálie k nejslavnější  
-svatbě desetiletí
 
 Maruška bere si Dina.
 

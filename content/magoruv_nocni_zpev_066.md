@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Petrovi Bohunovskému
+contentType: poetry
 ---
 
 <section>
-
-Petrovi Bohunovskému
 
 Nesmíš si myslet
 

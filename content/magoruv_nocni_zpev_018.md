@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 14\.
+contentType: poetry
 ---
 
 <section>
-
-14.
 
 Řeka lihu je vypita,
 

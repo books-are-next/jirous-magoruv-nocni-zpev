@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 24\.Jilská 22
+contentType: poetry
 ---
 
 <section>
-
-24.  
-Jilská 22
 
 Za rohem
 

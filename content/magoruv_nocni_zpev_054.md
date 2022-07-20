@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "O\_staré lásce"
+contentType: poetry
 ---
 
 <section>
-
-O staré lásce
 
 Mladě Opočenské
 

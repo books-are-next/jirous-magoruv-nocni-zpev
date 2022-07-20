@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 13\.
+contentType: poetry
 ---
 
 <section>
-
-13.
 
 Chtěli jsme s Liborem
 

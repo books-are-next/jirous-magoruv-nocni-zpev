@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: – – –
+contentType: poetry
 ---
 
 <section>
-
-– – –
 
 Ne že nejhorší
 

@@ -1,12 +1,11 @@
 ---
-contentType: prose
+title: – – –
+contentType: poetry
 ---
 
 <section>
 
-– – –
-
-     Před záchodem
+Před záchodem
 
      v Oáze
 

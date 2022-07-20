@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 2\.Laďovi Kořenovi
+contentType: poetry
 ---
 
 <section>
-
-2.  
-Laďovi Kořenovi
 
 Chtěl jsem pít
 

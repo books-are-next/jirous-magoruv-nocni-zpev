@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Olivero Malinovi
+contentType: poetry
 ---
 
 <section>
-
-Olivero Malinovi
 
 Panák není víno
 

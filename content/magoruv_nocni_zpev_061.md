@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Literární kavárna v\_Řetězové"
+contentType: poetry
 ---
 
 <section>
-
-Literární kavárna v Řetězové
 
 Vždyť život mohl by být
 

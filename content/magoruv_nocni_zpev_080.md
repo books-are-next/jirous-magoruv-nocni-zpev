@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Komentáře k\_jednotlivým textům"
+contentType: poetry
 ---
 
 <section>
-
-Komentáře k jednotlivým textům
 
 Opatrná marginálie k současné vnitropolitické situaci
 

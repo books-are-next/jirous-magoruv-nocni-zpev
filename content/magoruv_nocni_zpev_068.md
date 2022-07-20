@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Zdeňkovi Mertovi
+contentType: poetry
 ---
 
 <section>
-
-Zdeňkovi Mertovi
 
 Fotografové jsou kořistníci
 

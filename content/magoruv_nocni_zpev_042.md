@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Na\_Neklance [III\\.]"
+contentType: poetry
 ---
 
 <section>
-
-Na Neklance \[III.\]
 
 Leta vím, že nejsem
 

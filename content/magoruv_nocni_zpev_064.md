@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Fúzistovi (V\.)
+contentType: poetry
 ---
 
 <section>
-
-Fúzistovi (V.)
 
 Tak prapodivně dnes završujem fúzi:
 

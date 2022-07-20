@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Františku Hamzovi
+contentType: poetry
 ---
 
 <section>
-
-Františku Hamzovi
 
 S Alinou mluvili jsme
 

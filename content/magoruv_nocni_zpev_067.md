@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Epitaf
+contentType: poetry
 ---
 
 <section>
-
-Epitaf
 
 (Nazdávalo sa mi
 

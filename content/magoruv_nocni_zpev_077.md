@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: – – –
+contentType: poetry
 ---
 
 <section>
-
-– – –
 
 Nejvíce Jiří Benda šťasten je,
 

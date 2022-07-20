@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Na\_Neklance [IV\\.]"
+contentType: poetry
 ---
 
 <section>
-
-Na Neklance \[IV.\]
 
 Jiří
 

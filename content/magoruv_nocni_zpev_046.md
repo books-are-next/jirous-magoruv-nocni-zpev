@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "V\_pondělí 10\\. května na\_Oáze"
+contentType: poetry
 ---
 
 <section>
-
-V pondělí 10. května na Oáze
 
 Ačkoliv po víkendu
 

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nonstop Pytel
+contentType: poetry
 ---
 
 <section>
-
-Nonstop Pytel
 
 Madam
 

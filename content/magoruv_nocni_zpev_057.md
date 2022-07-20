@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Odchod z\_Oázy II\\."
+contentType: poetry
 ---
 
 <section>
-
-Odchod z Oázy II.
 
 Musím jít domů
 

@@ -9,11 +9,19 @@ Ať se o nás
 
      zlí jazykové otrou
 
+</section>
+
+<section>
+
 Ve vší cudnosti
 
      bílé víno
 
      popíjel jsem s Petrou
+
+</section>
+
+<section>
 
 Tolik něžné a cudné
 

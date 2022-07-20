@@ -15,6 +15,10 @@ do lidušky sedm let
 
 chodil jsem týrat klavír
 
+</section>
+
+<section>
+
 Však nikdy neměl jsem
 
 takový vztek

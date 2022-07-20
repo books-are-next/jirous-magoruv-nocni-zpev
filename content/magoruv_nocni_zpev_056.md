@@ -9,11 +9,19 @@ Jsme na vernisáži obrazů
 
      Zbyňka Benýška
 
+</section>
+
+<section>
+
 Jaká vernisáž?
 
      stačí se dívat po vizáži
 
      těch, kteří sem dneska přišli
+
+</section>
+
+<section>
 
 I na obrazy
 
@@ -28,6 +36,10 @@ I na obrazy
      až z hospody U prince Miroslava
 
      podaří se vám odejít
+
+</section>
+
+<section>
 
 Tvrdili kunsthistorici
 

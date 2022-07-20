@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-(ve spolupráci s Helenkou P.)
+_(ve spolupráci s Helenkou P.)_
+
+</section>
+
+<section>
 
 Člověk si bokem
 

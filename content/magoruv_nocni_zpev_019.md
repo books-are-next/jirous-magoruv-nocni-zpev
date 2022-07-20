@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-Martinu Heideggerovi
+_Martinu Heideggerovi_
+
+</section>
+
+<section>
 
 Nepleť si
 

@@ -5,13 +5,17 @@ contentType: poetry
 
 <section>
 
-(Nazdávalo sa mi
+_(Nazdávalo sa mi_
 
-že Erik je zbabelec
+_že Erik je zbabelec_
 
-veď sa bránil keď objednal
+_veď sa bránil keď objednal_
 
-jsem dve pálenky na koniec)
+_jsem dve pálenky na koniec)_
+
+</section>
+
+<section>
 
 Zbyněk Prokop
 
@@ -24,6 +28,10 @@ Zbyněk Prokop
      leč uložil jsem ho v Úloži
 
      u Erika pod kompost
+
+</section>
+
+<section>
 
 Tak dost
 

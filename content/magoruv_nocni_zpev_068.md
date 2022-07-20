@@ -19,6 +19,10 @@ Fotografové jsou kořistníci
 
           ustalovačem
 
+</section>
+
+<section>
+
 Nechápou v čem
 
      zachytit nelze
@@ -29,6 +33,10 @@ Nechápou v čem
 
      soucit
 
+</section>
+
+<section>
+
 Jenom si umí
 
      do fotoaparátu
@@ -37,11 +45,19 @@ Jenom si umí
 
      nakroutit
 
+</section>
+
+<section>
+
 To bylo napsáno
 
      než začala technologie
 
      digitální
+
+</section>
+
+<section>
 
 Tam po duši
 

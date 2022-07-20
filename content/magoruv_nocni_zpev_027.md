@@ -17,6 +17,10 @@ radšiej byl bych v píči
 
 než v Košici
 
+</section>
+
+<section>
+
 Vím
 
 Košice jsou rodu množného

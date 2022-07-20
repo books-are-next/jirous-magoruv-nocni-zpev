@@ -11,11 +11,19 @@ Jak to, že
 
      pobíhat bez náhubku?
 
+</section>
+
+<section>
+
 Jak to, že
 
      do huby nestrkají mi
 
      v octě macerovanou hubku?
+
+</section>
+
+<section>
 
 Když jsem se
 
@@ -26,6 +34,10 @@ Když jsem se
      Tuarég,
 
      nikoli Arab:
+
+</section>
+
+<section>
 
 Jseš srab!
 

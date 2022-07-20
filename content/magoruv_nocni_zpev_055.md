@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-Liboru Krejcarovi
+_Liboru Krejcarovi_
+
+</section>
+
+<section>
 
 Ach Pane
 
@@ -15,9 +19,17 @@ Ach Pane
 
      do spirály radši zaviň mne
 
+</section>
+
+<section>
+
 Pavučinou mne udus
 
      než ten hnus
+
+</section>
+
+<section>
 
 Strašlivá svině je pýcha
 

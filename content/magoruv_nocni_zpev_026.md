@@ -5,9 +5,17 @@ contentType: poetry
 
 <section>
 
-(s nepřehlédnutelnou aluzí na kultovní text z Magorových labutích písní)
+_(s nepřehlédnutelnou aluzí na kultovní text z Magorových labutích písní)_
 
-Josefu Šteffelovi
+</section>
+
+<section>
+
+_Josefu Šteffelovi_
+
+</section>
+
+<section>
 
 Když jsem šel druhého septembra
 
@@ -20,6 +28,10 @@ Když jsem šel druhého septembra
      Stankoviči, do kundy,
 
      znova.
+
+</section>
+
+<section>
 
 Ach, ta doba!
 

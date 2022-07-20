@@ -5,9 +5,13 @@ contentType: poetry
 
 <section>
 
-Čuňas do toho kváká
+_Čuňas do toho kváká_
 
-asi ho svrbí kůže u ptáka
+_asi ho svrbí kůže u ptáka_
+
+</section>
+
+<section>
 
 Když zahlédl jsem Jitku
 
@@ -19,11 +23,19 @@ Když zahlédl jsem Jitku
 
      neochvějně mířil dolů
 
+</section>
+
+<section>
+
 Udělal jsem na Jitku
 
      rozverně: ku kú!
 
      Laskavě pohrozila mi: Ty kluku!
+
+</section>
+
+<section>
 
 Ach,
 

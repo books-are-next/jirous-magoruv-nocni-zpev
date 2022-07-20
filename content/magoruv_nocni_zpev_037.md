@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-(rekonstrukce)
+_(rekonstrukce)_
+
+</section>
+
+<section>
 
 Ptal jsem se Placáka
 
@@ -16,6 +20,10 @@ Když míjela nás Ilava:
 víš ty vůbec
 
 co je žihľava?
+
+</section>
+
+<section>
 
 Odpověděl mi ten degeš:
 

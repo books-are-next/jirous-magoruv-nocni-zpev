@@ -23,6 +23,10 @@ padá v nicotu Tartaru
 
 či navždy v Erebu mizí.
 
+</section>
+
+<section>
+
 Však toho nedbej:
 
 jak starý vrásčitý Marabu
@@ -30,6 +34,10 @@ jak starý vrásčitý Marabu
 na jedné noze zdánlivě cizí
 
 dál čni nad české poezie tratolištěm.
+
+</section>
+
+<section>
 
 Stůj hrdě tam, Andreji Nikolaji.
 

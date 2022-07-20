@@ -6,6 +6,6 @@ contentType: poetry
 
 <section>
 
-Alici Číhalové
+_Alici Číhalové_
 
 </section>

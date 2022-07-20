@@ -5,17 +5,29 @@ contentType: poetry
 
 <section>
 
-Mladě Opočenské
+_Mladě Opočenské_
+
+</section>
+
+<section>
 
 Jdu se vyčurat
 
      pravila
+
+</section>
+
+<section>
 
 Nechceš podržet nad kanálem?
 
      ačkoli
 
      dnes asi už bych tě neunes
+
+</section>
+
+<section>
 
 Nechci,
 
@@ -25,9 +37,17 @@ Nechci,
 
      do Čertovky
 
+</section>
+
+<section>
+
 Sušila jsem ho dva dny
 
      dva dny sušila jsem drdol
+
+</section>
+
+<section>
 
 Na kanálek
 

@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-Petru Bohunovskému
+_Petru Bohunovskému_
+
+</section>
+
+<section>
 
 Marně vzpomínám
 
@@ -15,11 +19,19 @@ Marně vzpomínám
 
      a nevím na co
 
+</section>
+
+<section>
+
 Marně vzpomínáš
 
      jediné co víš
 
      stálo to za to
+
+</section>
+
+<section>
 
 Stálo to za co?
 

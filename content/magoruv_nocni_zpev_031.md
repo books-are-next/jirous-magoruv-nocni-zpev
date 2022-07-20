@@ -9,6 +9,10 @@ Magor vyžadoval od Mati
 
      za nesplněný úkol penále
 
+</section>
+
+<section>
+
 Maťa řek Magorovi:
 
      Ty, ty, ty,

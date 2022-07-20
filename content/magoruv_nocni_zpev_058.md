@@ -15,6 +15,10 @@ V hospůdce
 
      napadla báseň mě úchvatná o něm
 
+</section>
+
+<section>
+
 Však igelitka s papírem
 
      visela tři kroky ode mne
@@ -24,6 +28,10 @@ Však igelitka s papírem
      abych báseň si zapsal
 
      ta svině opustila mne
+
+</section>
+
+<section>
 
 Pepíčku Čečile
 
@@ -36,6 +44,10 @@ Pepíčku Čečile
      tři kroky neučiněné
 
      stačí je zničit
+
+</section>
+
+<section>
 
 Ach Pepíčku
 

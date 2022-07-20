@@ -13,9 +13,17 @@ contentType: poetry
 
      já vím své.
 
+</section>
+
+<section>
+
 Nebýti pita,
 
      je po mně veta. Díky, Samsone!
+
+</section>
+
+<section>
 
 Stejný jak Bondy jsem blázen:
 

@@ -11,6 +11,10 @@ Chtěl napsat jsem
 
      jež událo se u sv. Martina ve zdi
 
+</section>
+
+<section>
+
 Chtěl napsat jsem
 
      svatební báseň
@@ -21,6 +25,10 @@ Chtěl napsat jsem
 
      u Martina svatého ve zdi
 
+</section>
+
+<section>
+
 Chtěl napsat jsem
 
      o sezdání Pavlíny i
@@ -28,6 +36,10 @@ Chtěl napsat jsem
      Davida u sv. Martina
 
      ve zdi
+
+</section>
+
+<section>
 
 Chtěl napsat báseň jsem
 

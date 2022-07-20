@@ -11,6 +11,10 @@ Tolik let strávil jsem bez antabusu
 
      kolik jsem musel strávit hnusu
 
+</section>
+
+<section>
+
 Teprve Lenku když jsem
 
      poznal a líbal
@@ -19,6 +23,10 @@ Teprve Lenku když jsem
 
      vítr někam odnesl odvál a vzal
 
+</section>
+
+<section>
+
 Nevím
 
      čím víc bych si tě
@@ -26,6 +34,10 @@ Nevím
      přiblížil,
 
      ó Lenko
+
+</section>
+
+<section>
 
 Ko ko ko dák!
 

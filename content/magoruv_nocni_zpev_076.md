@@ -11,11 +11,19 @@ Je zmetek syn
 
      ke svátku matek
 
+</section>
+
+<section>
+
 Dcera zvrácená
 
      jež nekoupí květinu matce
 
      když matka má svátek
+
+</section>
+
+<section>
 
 Zvráceni jsou oba
 

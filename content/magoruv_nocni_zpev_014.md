@@ -13,6 +13,10 @@ Potkal jsem Radima
 
      Kýho výra!
 
+</section>
+
+<section>
+
 Je to kamarád Fandy Kolmana
 
      jakoby do huby mi

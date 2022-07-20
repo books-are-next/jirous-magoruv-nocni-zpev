@@ -15,6 +15,10 @@ a já bych jedním z těch býků byl
 
 a zakusoval se do jitek – rostlin.
 
+</section>
+
+<section>
+
 Ach,
 
 přál bych si být pluhem,
@@ -24,6 +28,10 @@ jenž ruchadlem by plenil chrpy, Jitky a rmen
 být ruchadlem, jež Jitky przní,
 
 mlátičkou, z níž odsýpá se zrní.
+
+</section>
+
+<section>
 
 Ach,
 

@@ -19,6 +19,10 @@ a mumlal si asi
 
 óm
 
+</section>
+
+<section>
+
 Na rozcestí cest
 
      potkal ho ekonom:
@@ -27,11 +31,19 @@ Na rozcestí cest
 
      jakej óm?
 
+</section>
+
+<section>
+
 Ty šmudlo
 
      já jsem elektrikář
 
      a žádnej intrikář
+
+</section>
+
+<section>
 
 Říkal jsem Ohm!
 

@@ -21,6 +21,10 @@ Včera to zabalili
 
      vejrů i jiných sov
 
+</section>
+
+<section>
+
 To připomnělo mi
 
      Jindru Procházku
@@ -39,6 +43,10 @@ To připomnělo mi
 
      pod stůl zahodil
 
+</section>
+
+<section>
+
 Když přišel Fanda
 
      vrchní Fanda jenž nechat chtěl
@@ -51,6 +59,10 @@ Když přišel Fanda
 
      báseň
 
+</section>
+
+<section>
+
 A tak i vizuální báseň
 
      zabalená do mnoha ubrousků
@@ -60,6 +72,10 @@ A tak i vizuální báseň
      jíž po ránu jsi se nedopátral
 
      sv. Máří nikdy nevyhulená
+
+</section>
+
+<section>
 
 au
 

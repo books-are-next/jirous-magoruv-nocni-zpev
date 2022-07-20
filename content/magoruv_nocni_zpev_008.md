@@ -13,6 +13,10 @@ Přešel jsem
 
      V Náměšti nad Oslavou
 
+</section>
+
+<section>
+
 Nad Oslavou
 
      ou
@@ -25,6 +29,10 @@ Nad Oslavou
 
      i svatý grál
 
+</section>
+
+<section>
+
 Nad Oslavou
 
      ou měsíc stál
@@ -36,6 +44,10 @@ Nad Oslavou
      skvrnitý flekatý
 
      jak filcky na něm by sídlily
+
+</section>
+
+<section>
 
 Oslava plula dál
 

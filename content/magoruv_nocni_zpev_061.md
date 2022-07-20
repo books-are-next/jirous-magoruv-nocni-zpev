@@ -9,6 +9,10 @@ Vždyť život mohl by být
 
      už jenom hezký
 
+</section>
+
+<section>
+
 Seděl se mnou u stolu
 
      Honza Nebeský
@@ -21,9 +25,17 @@ Seděl se mnou u stolu
 
      a vedle Němec David
 
+</section>
+
+<section>
+
 Viď, málem zapomněl jsem
 
      na Zdeňka Mertu
+
+</section>
+
+<section>
 
 K čertu!
 

@@ -21,6 +21,10 @@ Když vstoupil jsem
 
      skončit směl
 
+</section>
+
+<section>
+
 Když došlo mi
 
      co jsem si pomyslel
@@ -28,6 +32,10 @@ Když došlo mi
      studem jsem zrůžověl a
 
      hanbou jsem se zarděl
+
+</section>
+
+<section>
 
 Než život úžasný
 

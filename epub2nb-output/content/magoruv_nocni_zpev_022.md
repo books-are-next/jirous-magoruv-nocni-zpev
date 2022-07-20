@@ -13,6 +13,10 @@ Když jsem zjistil
 
      a kde je kytka?
 
+</section>
+
+<section>
+
 Tak Jitko promiň
 
      místo kytky
@@ -21,6 +25,10 @@ Tak Jitko promiň
 
      verše plytký
 
-5\. 12. 2000
+</section>
+
+<section>
+
+_5\. 12. 2000_
 
 </section>

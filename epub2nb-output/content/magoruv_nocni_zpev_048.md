@@ -11,9 +11,17 @@ Na zahradě v Aspektu
 
      tam roste kanadský buk
 
+</section>
+
+<section>
+
 Magor mu odvětil:
 
      jak jsi to zjistil?
+
+</section>
+
+<section>
 
 Máš snad sebou
 

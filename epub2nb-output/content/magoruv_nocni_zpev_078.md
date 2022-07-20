@@ -15,6 +15,10 @@ snad i to je důvod že neví
 
 jaká je jeho míra
 
+</section>
+
+<section>
+
 Ten manipulační pracovník
 
 z Prahy 6

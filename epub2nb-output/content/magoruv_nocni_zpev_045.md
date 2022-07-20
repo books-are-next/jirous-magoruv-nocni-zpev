@@ -13,6 +13,10 @@ S Alinou mluvili jsme
 
      česky je to Zálesí
 
+</section>
+
+<section>
+
 I já jsem Zálesík
 
      sem ruku a drž se pevně

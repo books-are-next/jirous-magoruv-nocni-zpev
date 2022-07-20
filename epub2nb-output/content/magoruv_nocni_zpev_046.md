@@ -17,11 +17,23 @@ náhle přede mne Ríša
 
 panáka tequily postavil hrdě.
 
+</section>
+
+<section>
+
 Vzpamatoval jsem se za chvíli:
 
 co je to za trik?
 
+</section>
+
+<section>
+
 Potom mi došlo: narodil se Patrik.
+
+</section>
+
+<section>
 
 Tak šťastná událost zapít se musí
 

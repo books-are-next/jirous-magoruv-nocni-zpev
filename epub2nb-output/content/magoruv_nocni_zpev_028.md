@@ -13,6 +13,10 @@ Nazdávalo sa mi
 
      dve pálenky na koniec
 
+</section>
+
+<section>
+
 A vraviel na to Erik,
 
      z Úloži podivný archaický tvor:

@@ -11,6 +11,10 @@ sklenic
 
 před sebou tolik
 
+</section>
+
+<section>
+
 Co kdybych potom
 
 v očích věčnosti

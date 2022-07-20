@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirous-magoruv-nocni-zpev-8bc1b6c",
-  "revision": "8bc1b6c",
+  "identifier": "jirous-magoruv-nocni-zpev-92da3b6",
+  "revision": "92da3b6",
   "readingOrder": [
     "promo.html",
     "magoruv_nocni_zpev_005.html",
@@ -92,8 +92,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 20 2022 12:50:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658321457797
+    "date": "Wed Jul 20 2022 13:05:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658322306665
   },
   "documents": [
     {
@@ -844,7 +844,15 @@
           "level": 1,
           "name": "– – –",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Na Neklance II.",
+              "id": "naneklance-ii",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -1344,7 +1352,15 @@
           "level": 1,
           "name": "Petrovi Bohunovskému",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Petrovi Rezkovi",
+              "id": "petrovi-rezkovi",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -1651,9 +1667,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
+      "words": 140,
       "chars": 900,
-      "ideas": 15,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "magoruv_nocni_zpev_081.html",
@@ -1671,9 +1687,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3606,
+      "words": 3607,
       "chars": 19656,
-      "ideas": 926
+      "ideas": 927
     },
     "chapters": {
       "words": 3459,

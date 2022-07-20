@@ -19,6 +19,10 @@ Za rohem
 
      než tuhle holku típnu
 
+</section>
+
+<section>
+
 Začas vrátil se Roman
 
      zjizvený
@@ -32,6 +36,10 @@ Začas vrátil se Roman
      řek Magorovi
 
      zrcadlo snad udělat bysme měli
+
+</section>
+
+<section>
 
 Pak když utvořil zrcadlo
 

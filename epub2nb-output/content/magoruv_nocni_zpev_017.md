@@ -9,6 +9,10 @@ Chtěli jsme s Liborem
 
      koupit Haničce k svátku květinu:
 
+</section>
+
+<section>
+
 Však Marie s tváří jak neoloupala by  
 z ní noční krém,
 
@@ -20,12 +24,20 @@ z ní noční krém,
 
      jak do polévky dělá se játrová zavářka.
 
+</section>
+
+<section>
+
 Pak nás napadlo: což knihou tak potěšit  
 srdce Hanky?
 
      Řeklo nám orákulum: vy pitomci,
 
      vždyť ona čte jen výpisy z banky.
+
+</section>
+
+<section>
 
 Tak bloumali jsme Heřmanovým Městcem,
 
@@ -49,15 +61,27 @@ Tak bloumali jsme Heřmanovým Městcem,
 
 denně.
 
+</section>
+
+<section>
+
 To napsal tam můj megaloman šéf –
 
      úžasně tím prý zvedne nám se kšeft.
+
+</section>
+
+<section>
 
 Kolik let čítá ta vaše přítelkyně?
 
 Tož nezoufejte, snad pro ni něco tu je
 
 A ukázka na podtitulek reklamy poslední:
+
+</section>
+
+<section>
 
 Přednostně zařizujeme služby pohřební.
 

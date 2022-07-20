@@ -9,11 +9,23 @@ Růženko,
 
      miláčku, nesu Ti omluvenku.
 
+</section>
+
+<section>
+
 Zapad jsem Pod Komín na chvilenku.
+
+</section>
+
+<section>
 
 Slibuju Ti,
 
      už se to nebude opakovat.
+
+</section>
+
+<section>
 
 Ledaže bych se před Tebou
 

@@ -2,8 +2,8 @@
 title: Tiráž
 ---
 
-Ivan Martin Jirous    
-Magorův noční zpěv  
+**Ivan Martin Jirous    
+Magorův noční zpěv**  
 Edice Čeští básníci 20. století  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  

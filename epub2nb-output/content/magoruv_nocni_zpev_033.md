@@ -21,6 +21,10 @@ snad bych to oželel
 
 leč přišel
 
+</section>
+
+<section>
+
 Tak život můj už jenom žal
 
 příště přijde zas

@@ -15,7 +15,15 @@ Chtěl jsem pít
 
      zvoral to jako dycky
 
+</section>
+
+<section>
+
 Nalil nám fernet
+
+</section>
+
+<section>
 
 Nezabil bys
 

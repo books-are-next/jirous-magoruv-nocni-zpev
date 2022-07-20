@@ -13,6 +13,10 @@ přijde na konec
 
 se Vráťa Brabenec
 
+</section>
+
+<section>
+
 Ne že na konec
 
 přijde nejhorší
@@ -23,11 +27,19 @@ dožili se termiti
 
 bylo by to lepší?
 
+</section>
+
+<section>
+
 Čtěte si Maurice Maeterlincka
 
 Život mravenců a
 
 Život termitů
+
+</section>
+
+<section>
 
 Buďte rádi že Vráťa
 

@@ -15,11 +15,19 @@ Ty žiješ na prknech
 
      jež svět neznamenají
 
+</section>
+
+<section>
+
 Přesto cosi společného
 
      prkna má bývalá
 
      i prkna tvá současná spolu mají
+
+</section>
+
+<section>
 
 Společný svět
 
@@ -30,6 +38,10 @@ Společný svět
      do nichž předtím žijící
 
      uléhají
+
+</section>
+
+<section>
 
 Do nichž
 

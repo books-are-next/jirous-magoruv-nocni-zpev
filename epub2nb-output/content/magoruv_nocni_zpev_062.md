@@ -17,6 +17,10 @@ S Mejlou
 
      A pili jsme Jakamarus
 
+</section>
+
+<section>
+
 Teď na Oáze
 
      Mirek Slavík
@@ -36,6 +40,10 @@ Teď na Oáze
      Bubo fallus
 
      leč Fallus bubový
+
+</section>
+
+<section>
 
 Co všechno člověk v životě se nedoví
 

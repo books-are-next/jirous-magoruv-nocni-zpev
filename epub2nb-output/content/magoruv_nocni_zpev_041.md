@@ -9,6 +9,10 @@ Víte vy vůbec
 
      kdo je Jiří Benda?
 
+</section>
+
+<section>
+
 Myslíte si možná o něm
 
      že je tetovanej rocker
@@ -21,9 +25,17 @@ Myslíte si možná o něm
 
      že neumí hrát ani prší?
 
+</section>
+
+<section>
+
 Nepodceňujte Bendu
 
      aby vám nedal na bednu
+
+</section>
+
+<section>
 
 Dneska se dožil skoro padesátky
 
@@ -31,7 +43,11 @@ Dneska se dožil skoro padesátky
 
      přemístěná do sádky
 
-Na Neklance II.
+## Na Neklance II.
+
+</section>
+
+<section>
 
 Nejenom tato hospoda
 
@@ -41,17 +57,29 @@ Nejenom tato hospoda
 
      jíž vejdeme do jiného světa
 
+</section>
+
+<section>
+
 v němž nejsou
 
      daňová přiznání
 
      o nichž Brabenec neustále žvaní
 
+</section>
+
+<section>
+
 v němž Petr Prokeš
 
      bude pořád týž
 
      i Pájka Fišer
+
+</section>
+
+<section>
 
 Jak pravil Bondy
 

@@ -13,6 +13,10 @@ odvrácené straně pípy postávat.
 
 Někdy se mu to stává snad.
 
+</section>
+
+<section>
+
 Na odvrácené straně pípy
 
 šťastnější je než houmles
@@ -20,6 +24,10 @@ Na odvrácené straně pípy
 válející se na podzim slastí
 
 v opadaném listí z lípy.
+
+</section>
+
+<section>
 
 Šťasten jest jako houmles,
 

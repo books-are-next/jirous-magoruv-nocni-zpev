@@ -9,9 +9,17 @@ Odcházeje už
 
      zastihl mne Karla Dvořáků hlas:
 
+</section>
+
+<section>
+
 Kam zas tak chvátáš?
 
      čeká nás tady egyptská úza
+
+</section>
+
+<section>
 
 Hrůza
 

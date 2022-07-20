@@ -5,7 +5,11 @@ contentType: poetry
 
 <section>
 
-(ve spolupráci s Honzíkem Kvasničkou)
+_(ve spolupráci s Honzíkem Kvasničkou)_
+
+</section>
+
+<section>
 
 Popíjet budu už jen mírně,
 

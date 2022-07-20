@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Když mě David B\\. v\_Poličce na\_chvíli opustil hledaje mobil"
+contentType: poetry
 ---
 
 <section>
-
-Když mě David B. v Poličce na chvíli opustil hledaje mobil
 
 A když se vrátil
 

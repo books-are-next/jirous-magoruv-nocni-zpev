@@ -1,12 +1,9 @@
 ---
-contentType: prose
+title: "15\\.Filosofický diskurs v\_útrobách Velryby"
+contentType: poetry
 ---
 
 <section>
-
-15.  
-Filosofický diskurs  
-v útrobách Velryby
 
 Martinu Heideggerovi
 

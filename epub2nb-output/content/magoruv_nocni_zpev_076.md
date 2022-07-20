@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Haně Brandejské
+contentType: poetry
 ---
 
 <section>
-
-Haně Brandejské
 
 Je zmetek syn
 

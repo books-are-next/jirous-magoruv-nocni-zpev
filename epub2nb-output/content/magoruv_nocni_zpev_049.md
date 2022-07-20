@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Když po\_mně pořád chtějí nějaké psaní"
+contentType: poetry
 ---
 
 <section>
-
-Když po mně pořád chtějí  
-nějaké psaní
 
 (v non-stopu na Smíchově)
 

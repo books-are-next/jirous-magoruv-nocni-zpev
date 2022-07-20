@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 18\.Psům
+contentType: poetry
 ---
 
 <section>
-
-18.  
-Psům
 
 Jak to, že
 

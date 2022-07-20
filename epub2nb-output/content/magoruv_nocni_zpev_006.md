@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "1\\.Za\_úsvitu v\_Trutnově"
+contentType: poetry
 ---
 
 <section>
-
-1.  
-Za úsvitu v Trutnově
 
 (ve spolupráci s Helenkou P.)
 

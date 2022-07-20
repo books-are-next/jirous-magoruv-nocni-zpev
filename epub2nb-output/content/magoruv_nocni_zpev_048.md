@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: – – –
+contentType: poetry
 ---
 
 <section>
-
-– – –
 
 Na zahradě v Aspektu
 

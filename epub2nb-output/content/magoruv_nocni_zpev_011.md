@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 7\.Milostná II\.
+contentType: poetry
 ---
 
 <section>
-
-7.  
-Milostná II.
 
 Čuňas do toho kváká
 

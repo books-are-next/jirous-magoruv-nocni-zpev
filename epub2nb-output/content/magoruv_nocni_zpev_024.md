@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 27\.
+contentType: poetry
 ---
 
 <section>
-
-27.
 
 Ode mne
 

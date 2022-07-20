@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "3\\.Holkám z\_Náměště"
+contentType: poetry
 ---
 
 <section>
-
-3.  
-Holkám z Náměště
 
 Přešel jsem
 

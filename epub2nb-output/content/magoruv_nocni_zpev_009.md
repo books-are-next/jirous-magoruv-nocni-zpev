@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 5\.Aramu Jinayanovi
+contentType: poetry
 ---
 
 <section>
-
-5.  
-Aramu Jinayanovi
 
 Pod dubem
 

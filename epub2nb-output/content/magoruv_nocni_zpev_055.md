@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Pýcha
+contentType: poetry
 ---
 
 <section>
-
-Pýcha
 
 Liboru Krejcarovi
 

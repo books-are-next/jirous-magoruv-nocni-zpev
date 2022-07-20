@@ -1,12 +1,9 @@
 ---
-contentType: prose
+title: "21\\.Omluvenka z\_hospody Pod Komínem v\_Dačicích"
+contentType: poetry
 ---
 
 <section>
-
-21.  
-Omluvenka z hospody  
-Pod Komínem v Dačicích
 
 Růženko,
 

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 22\.
+contentType: poetry
 ---
 
 <section>
-
-22.
 
 Když jsem zjistil
 

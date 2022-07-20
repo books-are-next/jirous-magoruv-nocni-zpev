@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Magorův noční zpěv",
       "identifier": "urn:uuid:c822fcba-7794-43bd-bf3a-3f645b6e0b1f",
       "author": "Ivan Martin Jirous",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-06-17T00:00:00.000Z"
+      "modified": "2020-06-17T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nN-zev-b-sn-",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "magoruv_nocni_zpev_001.md",
             "xhtml": "magoruv_nocni_zpev_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_002.md",
             "xhtml": "magoruv_nocni_zpev_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_003.md",
             "xhtml": "magoruv_nocni_zpev_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_004.md",
             "xhtml": "magoruv_nocni_zpev_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "magoruv_nocni_zpev_006.md",
@@ -97,7 +108,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_007.md",
@@ -108,7 +120,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_008.md",
@@ -119,7 +132,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_009.md",
@@ -130,7 +144,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_010.md",
@@ -141,7 +156,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_011.md",
@@ -152,7 +168,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_012.md",
@@ -163,7 +180,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_013.md",
@@ -174,7 +192,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_014.md",
@@ -185,7 +204,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_015.md",
@@ -196,7 +216,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_016.md",
@@ -207,7 +228,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_017.md",
@@ -218,7 +240,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_018.md",
@@ -229,7 +252,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_019.md",
@@ -240,7 +264,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_020.md",
@@ -251,7 +276,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_021.md",
@@ -262,7 +288,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_022.md",
@@ -273,7 +300,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_023.md",
@@ -284,7 +312,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_024.md",
@@ -295,7 +324,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_025.md",
@@ -306,7 +336,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_026.md",
@@ -317,7 +348,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_027.md",
@@ -328,7 +360,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_028.md",
@@ -339,7 +372,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_029.md",
@@ -350,7 +384,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_030.md",
@@ -361,7 +396,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_031.md",
@@ -372,7 +408,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_032.md",
@@ -383,7 +420,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_033.md",
@@ -394,7 +432,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_034.md",
@@ -405,7 +444,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_035.md",
@@ -416,7 +456,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_036.md",
@@ -427,7 +468,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_037.md",
@@ -438,7 +480,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_038.md",
@@ -449,7 +492,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_039.md",
@@ -460,7 +504,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_040.md",
@@ -471,7 +516,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_041.md",
@@ -482,7 +528,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_042.md",
@@ -493,7 +540,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_043.md",
@@ -504,7 +552,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_044.md",
@@ -515,7 +564,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_045.md",
@@ -526,7 +576,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_046.md",
@@ -537,7 +588,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_047.md",
@@ -548,7 +600,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_048.md",
@@ -559,7 +612,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_049.md",
@@ -570,7 +624,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_050.md",
@@ -581,7 +636,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_051.md",
@@ -592,7 +648,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_052.md",
@@ -603,7 +660,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_053.md",
@@ -614,7 +672,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_054.md",
@@ -625,7 +684,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_055.md",
@@ -636,7 +696,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_056.md",
@@ -647,7 +708,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_057.md",
@@ -658,7 +720,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_058.md",
@@ -669,7 +732,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_059.md",
@@ -680,7 +744,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_060.md",
@@ -691,7 +756,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_061.md",
@@ -702,7 +768,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_062.md",
@@ -713,7 +780,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_063.md",
@@ -724,7 +792,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_064.md",
@@ -735,7 +804,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_065.md",
@@ -746,7 +816,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_066.md",
@@ -757,7 +828,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_067.md",
@@ -768,7 +840,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_068.md",
@@ -779,7 +852,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_069.md",
@@ -790,7 +864,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_070.md",
@@ -801,7 +876,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_071.md",
@@ -812,7 +888,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_072.md",
@@ -823,7 +900,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_073.md",
@@ -834,7 +912,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_074.md",
@@ -845,7 +924,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_075.md",
@@ -856,7 +936,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_076.md",
@@ -867,7 +948,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_077.md",
@@ -878,7 +960,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_078.md",
@@ -889,7 +972,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_079.md",
@@ -900,7 +984,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_080.md",
@@ -911,7 +996,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_081.md",
@@ -922,18 +1008,20 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "magoruv_nocni_zpev_082.md",
             "xhtml": "magoruv_nocni_zpev_082.xhtml",
             "id": 81,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -979,457 +1067,457 @@
         "xhtml": "magoruv_nocni_zpev_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1\\.Za úsvitu v Trutnově",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_006.md",
         "xhtml": "magoruv_nocni_zpev_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2\\.Laďovi Kořenovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_007.md",
         "xhtml": "magoruv_nocni_zpev_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3\\.Holkám z Náměště",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_008.md",
         "xhtml": "magoruv_nocni_zpev_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5\\.Aramu Jinayanovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_009.md",
         "xhtml": "magoruv_nocni_zpev_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6\\.Milostná I\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_010.md",
         "xhtml": "magoruv_nocni_zpev_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7\\.Milostná II\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_011.md",
         "xhtml": "magoruv_nocni_zpev_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_012.md",
         "xhtml": "magoruv_nocni_zpev_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_013.md",
         "xhtml": "magoruv_nocni_zpev_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_014.md",
         "xhtml": "magoruv_nocni_zpev_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_015.md",
         "xhtml": "magoruv_nocni_zpev_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12\\.Sacherovi Masochovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_016.md",
         "xhtml": "magoruv_nocni_zpev_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_017.md",
         "xhtml": "magoruv_nocni_zpev_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_018.md",
         "xhtml": "magoruv_nocni_zpev_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15\\.Filosofický diskurs v útrobách Velryby",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_019.md",
         "xhtml": "magoruv_nocni_zpev_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18\\.Psům",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_020.md",
         "xhtml": "magoruv_nocni_zpev_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21\\.Omluvenka z hospody Pod Komínem v Dačicích",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_021.md",
         "xhtml": "magoruv_nocni_zpev_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_022.md",
         "xhtml": "magoruv_nocni_zpev_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24\\.Jilská 22",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_023.md",
         "xhtml": "magoruv_nocni_zpev_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "27\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_024.md",
         "xhtml": "magoruv_nocni_zpev_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "28\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_025.md",
         "xhtml": "magoruv_nocni_zpev_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "30\\.Opatrná marginálie k současné vnitropolitické situaci",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_026.md",
         "xhtml": "magoruv_nocni_zpev_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na prahu pětašedesátky",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_027.md",
         "xhtml": "magoruv_nocni_zpev_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_028.md",
         "xhtml": "magoruv_nocni_zpev_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Báseň pro Maruš",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_029.md",
         "xhtml": "magoruv_nocni_zpev_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Morytát o tragédii v hospodě Pod Komínem",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_030.md",
         "xhtml": "magoruv_nocni_zpev_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na Břežance",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_031.md",
         "xhtml": "magoruv_nocni_zpev_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Garçone odnášej",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_032.md",
         "xhtml": "magoruv_nocni_zpev_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_033.md",
         "xhtml": "magoruv_nocni_zpev_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_034.md",
         "xhtml": "magoruv_nocni_zpev_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Odchod z Oázy",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_035.md",
         "xhtml": "magoruv_nocni_zpev_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nonstop Pytel",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_036.md",
         "xhtml": "magoruv_nocni_zpev_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kopřiva",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_037.md",
         "xhtml": "magoruv_nocni_zpev_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Za barem před barem",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_038.md",
         "xhtml": "magoruv_nocni_zpev_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_039.md",
         "xhtml": "magoruv_nocni_zpev_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na Neklance",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_040.md",
         "xhtml": "magoruv_nocni_zpev_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_041.md",
         "xhtml": "magoruv_nocni_zpev_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na Neklance [III\\.]",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_042.md",
         "xhtml": "magoruv_nocni_zpev_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nepodařený odchod zpod Komína",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_043.md",
         "xhtml": "magoruv_nocni_zpev_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když mě David B\\. v Poličce na chvíli opustil hledaje mobil",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_044.md",
         "xhtml": "magoruv_nocni_zpev_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Františku Hamzovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_045.md",
         "xhtml": "magoruv_nocni_zpev_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V pondělí 10\\. května na Oáze",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_046.md",
         "xhtml": "magoruv_nocni_zpev_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na Neklance [IV\\.]",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_047.md",
         "xhtml": "magoruv_nocni_zpev_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_048.md",
         "xhtml": "magoruv_nocni_zpev_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když po mně pořád chtějí nějaké psaní",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_049.md",
         "xhtml": "magoruv_nocni_zpev_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Při hře s Běžcem",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_050.md",
         "xhtml": "magoruv_nocni_zpev_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_051.md",
         "xhtml": "magoruv_nocni_zpev_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_052.md",
         "xhtml": "magoruv_nocni_zpev_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Petrovi Placákovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_053.md",
         "xhtml": "magoruv_nocni_zpev_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O staré lásce",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_054.md",
         "xhtml": "magoruv_nocni_zpev_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pýcha",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_055.md",
         "xhtml": "magoruv_nocni_zpev_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_056.md",
         "xhtml": "magoruv_nocni_zpev_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Odchod z Oázy II\\.",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_057.md",
         "xhtml": "magoruv_nocni_zpev_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_058.md",
         "xhtml": "magoruv_nocni_zpev_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Důrazná řeč k Alžbětě Kopecké",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_059.md",
         "xhtml": "magoruv_nocni_zpev_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Olivero Malinovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_060.md",
         "xhtml": "magoruv_nocni_zpev_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Literární kavárna v Řetězové",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_061.md",
         "xhtml": "magoruv_nocni_zpev_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_062.md",
         "xhtml": "magoruv_nocni_zpev_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_063.md",
         "xhtml": "magoruv_nocni_zpev_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fúzistovi (V\\.)",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_064.md",
         "xhtml": "magoruv_nocni_zpev_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když jsme ve 23:21 hod\\. vyhazovali s výčepákem Jiřím Péťu z Oázy",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_065.md",
         "xhtml": "magoruv_nocni_zpev_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Petrovi Bohunovskému",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_066.md",
         "xhtml": "magoruv_nocni_zpev_066.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Epitaf",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_067.md",
         "xhtml": "magoruv_nocni_zpev_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zdeňkovi Mertovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_068.md",
         "xhtml": "magoruv_nocni_zpev_068.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_069.md",
         "xhtml": "magoruv_nocni_zpev_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Marginálie k nejslavnější svatbě desetiletí",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_070.md",
         "xhtml": "magoruv_nocni_zpev_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ztichlá klika",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_071.md",
         "xhtml": "magoruv_nocni_zpev_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Petrovi Uhlovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_072.md",
         "xhtml": "magoruv_nocni_zpev_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_073.md",
         "xhtml": "magoruv_nocni_zpev_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když Péťa Vaněček po ránuhledal svůj joint",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_074.md",
         "xhtml": "magoruv_nocni_zpev_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jiřímu Rejtharovi",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_075.md",
         "xhtml": "magoruv_nocni_zpev_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Haně Brandejské",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_076.md",
         "xhtml": "magoruv_nocni_zpev_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_077.md",
         "xhtml": "magoruv_nocni_zpev_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_078.md",
         "xhtml": "magoruv_nocni_zpev_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "– – –",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_079.md",
         "xhtml": "magoruv_nocni_zpev_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Komentáře k jednotlivým textům",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_080.md",
         "xhtml": "magoruv_nocni_zpev_080.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "magoruv_nocni_zpev_081.md",
         "xhtml": "magoruv_nocni_zpev_081.xhtml"
@@ -1519,6 +1607,6 @@
       "user": "books-are-next",
       "repo": "jirous-magoruv-nocni-zpev"
     },
-    "generatedAt": 1657186876130
+    "generatedAt": 1658321326089
   }
 }

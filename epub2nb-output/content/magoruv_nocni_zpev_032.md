@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Garçone odnášej
+contentType: poetry
 ---
 
 <section>
-
-Garçone odnášej
 
 Nechci mít prázdných
 

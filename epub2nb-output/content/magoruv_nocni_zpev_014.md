@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 10\.
+contentType: poetry
 ---
 
 <section>
-
-10.
 
 Potkal jsem Radima
 

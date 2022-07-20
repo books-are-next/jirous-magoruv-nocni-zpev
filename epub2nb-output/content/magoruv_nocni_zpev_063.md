@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: – – –
+contentType: poetry
 ---
 
 <section>
-
-– – –
 
 Rád zažil bych zda šumí tak hvozdy na Šumavě
 

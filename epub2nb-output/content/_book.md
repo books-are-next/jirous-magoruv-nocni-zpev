@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Magorův noční zpěv
   identifier: urn:uuid:c822fcba-7794-43bd-bf3a-3f645b6e0b1f
   author: Ivan Martin Jirous
   publisher: Městská knihovna v Praze
   modified: '2020-06-17T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
-  - magoruv_nocni_zpev_001.html
-  - magoruv_nocni_zpev_002.html
-  - magoruv_nocni_zpev_003.html
-  - magoruv_nocni_zpev_004.html
   - magoruv_nocni_zpev_005.html
   - magoruv_nocni_zpev_006.html
   - magoruv_nocni_zpev_007.html
@@ -92,11 +92,15 @@ readingOrder:
   - magoruv_nocni_zpev_079.html
   - magoruv_nocni_zpev_080.html
   - magoruv_nocni_zpev_081.html
-  - magoruv_nocni_zpev_082.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: magoruv_nocni_zpev_005.html
+        title: Věnování
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

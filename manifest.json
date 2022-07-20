@@ -1,0 +1,1684 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Magorův noční zpěv",
+  "author": "Ivan Martin Jirous",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jirous-magoruv-nocni-zpev-8bc1b6c",
+  "revision": "8bc1b6c",
+  "readingOrder": [
+    "promo.html",
+    "magoruv_nocni_zpev_005.html",
+    "magoruv_nocni_zpev_006.html",
+    "magoruv_nocni_zpev_007.html",
+    "magoruv_nocni_zpev_008.html",
+    "magoruv_nocni_zpev_009.html",
+    "magoruv_nocni_zpev_010.html",
+    "magoruv_nocni_zpev_011.html",
+    "magoruv_nocni_zpev_012.html",
+    "magoruv_nocni_zpev_013.html",
+    "magoruv_nocni_zpev_014.html",
+    "magoruv_nocni_zpev_015.html",
+    "magoruv_nocni_zpev_016.html",
+    "magoruv_nocni_zpev_017.html",
+    "magoruv_nocni_zpev_018.html",
+    "magoruv_nocni_zpev_019.html",
+    "magoruv_nocni_zpev_020.html",
+    "magoruv_nocni_zpev_021.html",
+    "magoruv_nocni_zpev_022.html",
+    "magoruv_nocni_zpev_023.html",
+    "magoruv_nocni_zpev_024.html",
+    "magoruv_nocni_zpev_025.html",
+    "magoruv_nocni_zpev_026.html",
+    "magoruv_nocni_zpev_027.html",
+    "magoruv_nocni_zpev_028.html",
+    "magoruv_nocni_zpev_029.html",
+    "magoruv_nocni_zpev_030.html",
+    "magoruv_nocni_zpev_031.html",
+    "magoruv_nocni_zpev_032.html",
+    "magoruv_nocni_zpev_033.html",
+    "magoruv_nocni_zpev_034.html",
+    "magoruv_nocni_zpev_035.html",
+    "magoruv_nocni_zpev_036.html",
+    "magoruv_nocni_zpev_037.html",
+    "magoruv_nocni_zpev_038.html",
+    "magoruv_nocni_zpev_039.html",
+    "magoruv_nocni_zpev_040.html",
+    "magoruv_nocni_zpev_041.html",
+    "magoruv_nocni_zpev_042.html",
+    "magoruv_nocni_zpev_043.html",
+    "magoruv_nocni_zpev_044.html",
+    "magoruv_nocni_zpev_045.html",
+    "magoruv_nocni_zpev_046.html",
+    "magoruv_nocni_zpev_047.html",
+    "magoruv_nocni_zpev_048.html",
+    "magoruv_nocni_zpev_049.html",
+    "magoruv_nocni_zpev_050.html",
+    "magoruv_nocni_zpev_051.html",
+    "magoruv_nocni_zpev_052.html",
+    "magoruv_nocni_zpev_053.html",
+    "magoruv_nocni_zpev_054.html",
+    "magoruv_nocni_zpev_055.html",
+    "magoruv_nocni_zpev_056.html",
+    "magoruv_nocni_zpev_057.html",
+    "magoruv_nocni_zpev_058.html",
+    "magoruv_nocni_zpev_059.html",
+    "magoruv_nocni_zpev_060.html",
+    "magoruv_nocni_zpev_061.html",
+    "magoruv_nocni_zpev_062.html",
+    "magoruv_nocni_zpev_063.html",
+    "magoruv_nocni_zpev_064.html",
+    "magoruv_nocni_zpev_065.html",
+    "magoruv_nocni_zpev_066.html",
+    "magoruv_nocni_zpev_067.html",
+    "magoruv_nocni_zpev_068.html",
+    "magoruv_nocni_zpev_069.html",
+    "magoruv_nocni_zpev_070.html",
+    "magoruv_nocni_zpev_071.html",
+    "magoruv_nocni_zpev_072.html",
+    "magoruv_nocni_zpev_073.html",
+    "magoruv_nocni_zpev_074.html",
+    "magoruv_nocni_zpev_075.html",
+    "magoruv_nocni_zpev_076.html",
+    "magoruv_nocni_zpev_077.html",
+    "magoruv_nocni_zpev_078.html",
+    "magoruv_nocni_zpev_079.html",
+    "magoruv_nocni_zpev_080.html",
+    "magoruv_nocni_zpev_081.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 20 2022 12:50:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658321457797
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "magoruv_nocni_zpev_005.html",
+      "toc": []
+    },
+    {
+      "title": "Magorův noční zpěv",
+      "file": "magoruv_nocni_zpev_005.html",
+      "words": 2,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "magoruv_nocni_zpev_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1.Za úsvitu v Trutnově",
+      "file": "magoruv_nocni_zpev_006.html",
+      "words": 23,
+      "chars": 135,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 2,
+      "prev": "magoruv_nocni_zpev_005.html",
+      "next": "magoruv_nocni_zpev_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1.Za úsvitu v Trutnově",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2.Laďovi Kořenovi",
+      "file": "magoruv_nocni_zpev_007.html",
+      "words": 22,
+      "chars": 121,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "magoruv_nocni_zpev_006.html",
+      "next": "magoruv_nocni_zpev_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2.Laďovi Kořenovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3.Holkám z Náměště",
+      "file": "magoruv_nocni_zpev_008.html",
+      "words": 73,
+      "chars": 362,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 4,
+      "prev": "magoruv_nocni_zpev_007.html",
+      "next": "magoruv_nocni_zpev_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3.Holkám z Náměště",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5.Aramu Jinayanovi",
+      "file": "magoruv_nocni_zpev_009.html",
+      "words": 42,
+      "chars": 198,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 5,
+      "prev": "magoruv_nocni_zpev_008.html",
+      "next": "magoruv_nocni_zpev_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5.Aramu Jinayanovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6.Milostná I.",
+      "file": "magoruv_nocni_zpev_010.html",
+      "words": 84,
+      "chars": 418,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 6,
+      "prev": "magoruv_nocni_zpev_009.html",
+      "next": "magoruv_nocni_zpev_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6.Milostná I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7.Milostná II.",
+      "file": "magoruv_nocni_zpev_011.html",
+      "words": 61,
+      "chars": 338,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 7,
+      "prev": "magoruv_nocni_zpev_010.html",
+      "next": "magoruv_nocni_zpev_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7.Milostná II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8.",
+      "file": "magoruv_nocni_zpev_012.html",
+      "words": 16,
+      "chars": 97,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 8,
+      "prev": "magoruv_nocni_zpev_011.html",
+      "next": "magoruv_nocni_zpev_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9.",
+      "file": "magoruv_nocni_zpev_013.html",
+      "words": 48,
+      "chars": 242,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 9,
+      "prev": "magoruv_nocni_zpev_012.html",
+      "next": "magoruv_nocni_zpev_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10.",
+      "file": "magoruv_nocni_zpev_014.html",
+      "words": 28,
+      "chars": 135,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "magoruv_nocni_zpev_013.html",
+      "next": "magoruv_nocni_zpev_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11.",
+      "file": "magoruv_nocni_zpev_015.html",
+      "words": 36,
+      "chars": 170,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 11,
+      "prev": "magoruv_nocni_zpev_014.html",
+      "next": "magoruv_nocni_zpev_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12.Sacherovi Masochovi",
+      "file": "magoruv_nocni_zpev_016.html",
+      "words": 22,
+      "chars": 133,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 12,
+      "prev": "magoruv_nocni_zpev_015.html",
+      "next": "magoruv_nocni_zpev_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12.Sacherovi Masochovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13.",
+      "file": "magoruv_nocni_zpev_017.html",
+      "words": 168,
+      "chars": 950,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 13,
+      "prev": "magoruv_nocni_zpev_016.html",
+      "next": "magoruv_nocni_zpev_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14.",
+      "file": "magoruv_nocni_zpev_018.html",
+      "words": 32,
+      "chars": 172,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 14,
+      "prev": "magoruv_nocni_zpev_017.html",
+      "next": "magoruv_nocni_zpev_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15.Filosofický diskurs v útrobách Velryby",
+      "file": "magoruv_nocni_zpev_019.html",
+      "words": 13,
+      "chars": 98,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 15,
+      "prev": "magoruv_nocni_zpev_018.html",
+      "next": "magoruv_nocni_zpev_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15.Filosofický diskurs v útrobách Velryby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18.Psům",
+      "file": "magoruv_nocni_zpev_020.html",
+      "words": 35,
+      "chars": 174,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 16,
+      "prev": "magoruv_nocni_zpev_019.html",
+      "next": "magoruv_nocni_zpev_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18.Psům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21.Omluvenka z hospody Pod Komínem v Dačicích",
+      "file": "magoruv_nocni_zpev_021.html",
+      "words": 33,
+      "chars": 193,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 17,
+      "prev": "magoruv_nocni_zpev_020.html",
+      "next": "magoruv_nocni_zpev_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21.Omluvenka z hospody Pod Komínem v Dačicích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22.",
+      "file": "magoruv_nocni_zpev_022.html",
+      "words": 30,
+      "chars": 137,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 18,
+      "prev": "magoruv_nocni_zpev_021.html",
+      "next": "magoruv_nocni_zpev_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24.Jilská 22",
+      "file": "magoruv_nocni_zpev_023.html",
+      "words": 66,
+      "chars": 365,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 19,
+      "prev": "magoruv_nocni_zpev_022.html",
+      "next": "magoruv_nocni_zpev_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24.Jilská 22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27.",
+      "file": "magoruv_nocni_zpev_024.html",
+      "words": 13,
+      "chars": 74,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 20,
+      "prev": "magoruv_nocni_zpev_023.html",
+      "next": "magoruv_nocni_zpev_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28.",
+      "file": "magoruv_nocni_zpev_025.html",
+      "words": 56,
+      "chars": 280,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "magoruv_nocni_zpev_024.html",
+      "next": "magoruv_nocni_zpev_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "30.Opatrná marginálie k současné vnitropolitické situaci",
+      "file": "magoruv_nocni_zpev_026.html",
+      "words": 44,
+      "chars": 288,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 22,
+      "prev": "magoruv_nocni_zpev_025.html",
+      "next": "magoruv_nocni_zpev_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "30.Opatrná marginálie k současné vnitropolitické situaci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na prahu pětašedesátky",
+      "file": "magoruv_nocni_zpev_027.html",
+      "words": 35,
+      "chars": 174,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "magoruv_nocni_zpev_026.html",
+      "next": "magoruv_nocni_zpev_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na prahu pětašedesátky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_028.html",
+      "words": 37,
+      "chars": 176,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 24,
+      "prev": "magoruv_nocni_zpev_027.html",
+      "next": "magoruv_nocni_zpev_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Báseň pro Maruš",
+      "file": "magoruv_nocni_zpev_029.html",
+      "words": 39,
+      "chars": 214,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "magoruv_nocni_zpev_028.html",
+      "next": "magoruv_nocni_zpev_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Báseň pro Maruš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Morytát o tragédii v hospodě Pod Komínem",
+      "file": "magoruv_nocni_zpev_030.html",
+      "words": 136,
+      "chars": 778,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 26,
+      "prev": "magoruv_nocni_zpev_029.html",
+      "next": "magoruv_nocni_zpev_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Morytát o tragédii v hospodě Pod Komínem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Břežance",
+      "file": "magoruv_nocni_zpev_031.html",
+      "words": 27,
+      "chars": 147,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 27,
+      "prev": "magoruv_nocni_zpev_030.html",
+      "next": "magoruv_nocni_zpev_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Břežance",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Garçone odnášej",
+      "file": "magoruv_nocni_zpev_032.html",
+      "words": 17,
+      "chars": 104,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 28,
+      "prev": "magoruv_nocni_zpev_031.html",
+      "next": "magoruv_nocni_zpev_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Garçone odnášej",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_033.html",
+      "words": 34,
+      "chars": 171,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 29,
+      "prev": "magoruv_nocni_zpev_032.html",
+      "next": "magoruv_nocni_zpev_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_034.html",
+      "words": 56,
+      "chars": 287,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 30,
+      "prev": "magoruv_nocni_zpev_033.html",
+      "next": "magoruv_nocni_zpev_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odchod z Oázy",
+      "file": "magoruv_nocni_zpev_035.html",
+      "words": 16,
+      "chars": 80,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 31,
+      "prev": "magoruv_nocni_zpev_034.html",
+      "next": "magoruv_nocni_zpev_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odchod z Oázy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nonstop Pytel",
+      "file": "magoruv_nocni_zpev_036.html",
+      "words": 14,
+      "chars": 66,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 32,
+      "prev": "magoruv_nocni_zpev_035.html",
+      "next": "magoruv_nocni_zpev_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nonstop Pytel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kopřiva",
+      "file": "magoruv_nocni_zpev_037.html",
+      "words": 33,
+      "chars": 171,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 33,
+      "prev": "magoruv_nocni_zpev_036.html",
+      "next": "magoruv_nocni_zpev_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kopřiva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za barem před barem",
+      "file": "magoruv_nocni_zpev_038.html",
+      "words": 46,
+      "chars": 277,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 34,
+      "prev": "magoruv_nocni_zpev_037.html",
+      "next": "magoruv_nocni_zpev_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za barem před barem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_039.html",
+      "words": 51,
+      "chars": 252,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 35,
+      "prev": "magoruv_nocni_zpev_038.html",
+      "next": "magoruv_nocni_zpev_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Neklance",
+      "file": "magoruv_nocni_zpev_040.html",
+      "words": 32,
+      "chars": 165,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 36,
+      "prev": "magoruv_nocni_zpev_039.html",
+      "next": "magoruv_nocni_zpev_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Neklance",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_041.html",
+      "words": 103,
+      "chars": 504,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 37,
+      "prev": "magoruv_nocni_zpev_040.html",
+      "next": "magoruv_nocni_zpev_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Neklance [III.]",
+      "file": "magoruv_nocni_zpev_042.html",
+      "words": 36,
+      "chars": 184,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 38,
+      "prev": "magoruv_nocni_zpev_041.html",
+      "next": "magoruv_nocni_zpev_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Neklance [III.]",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nepodařený odchod zpod Komína",
+      "file": "magoruv_nocni_zpev_043.html",
+      "words": 21,
+      "chars": 123,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 39,
+      "prev": "magoruv_nocni_zpev_042.html",
+      "next": "magoruv_nocni_zpev_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nepodařený odchod zpod Komína",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když mě David B. v Poličce na chvíli opustil hledaje mobil",
+      "file": "magoruv_nocni_zpev_044.html",
+      "words": 25,
+      "chars": 116,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 40,
+      "prev": "magoruv_nocni_zpev_043.html",
+      "next": "magoruv_nocni_zpev_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když mě David B. v Poličce na chvíli opustil hledaje mobil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Františku Hamzovi",
+      "file": "magoruv_nocni_zpev_045.html",
+      "words": 26,
+      "chars": 135,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 41,
+      "prev": "magoruv_nocni_zpev_044.html",
+      "next": "magoruv_nocni_zpev_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Františku Hamzovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V pondělí 10. května na Oáze",
+      "file": "magoruv_nocni_zpev_046.html",
+      "words": 56,
+      "chars": 295,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 42,
+      "prev": "magoruv_nocni_zpev_045.html",
+      "next": "magoruv_nocni_zpev_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V pondělí 10. května na Oáze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Neklance [IV.]",
+      "file": "magoruv_nocni_zpev_047.html",
+      "words": 5,
+      "chars": 27,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 43,
+      "prev": "magoruv_nocni_zpev_046.html",
+      "next": "magoruv_nocni_zpev_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Neklance [IV.]",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_048.html",
+      "words": 25,
+      "chars": 121,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 44,
+      "prev": "magoruv_nocni_zpev_047.html",
+      "next": "magoruv_nocni_zpev_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když po mně pořád chtějí nějaké psaní",
+      "file": "magoruv_nocni_zpev_049.html",
+      "words": 27,
+      "chars": 136,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 45,
+      "prev": "magoruv_nocni_zpev_048.html",
+      "next": "magoruv_nocni_zpev_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když po mně pořád chtějí nějaké psaní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Při hře s Běžcem",
+      "file": "magoruv_nocni_zpev_050.html",
+      "words": 12,
+      "chars": 55,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 46,
+      "prev": "magoruv_nocni_zpev_049.html",
+      "next": "magoruv_nocni_zpev_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Při hře s Běžcem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_051.html",
+      "words": 52,
+      "chars": 271,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 47,
+      "prev": "magoruv_nocni_zpev_050.html",
+      "next": "magoruv_nocni_zpev_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_052.html",
+      "words": 85,
+      "chars": 451,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 48,
+      "prev": "magoruv_nocni_zpev_051.html",
+      "next": "magoruv_nocni_zpev_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Petrovi Placákovi",
+      "file": "magoruv_nocni_zpev_053.html",
+      "words": 57,
+      "chars": 301,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 49,
+      "prev": "magoruv_nocni_zpev_052.html",
+      "next": "magoruv_nocni_zpev_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Petrovi Placákovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O staré lásce",
+      "file": "magoruv_nocni_zpev_054.html",
+      "words": 45,
+      "chars": 232,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 50,
+      "prev": "magoruv_nocni_zpev_053.html",
+      "next": "magoruv_nocni_zpev_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O staré lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pýcha",
+      "file": "magoruv_nocni_zpev_055.html",
+      "words": 28,
+      "chars": 152,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 51,
+      "prev": "magoruv_nocni_zpev_054.html",
+      "next": "magoruv_nocni_zpev_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pýcha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_056.html",
+      "words": 65,
+      "chars": 356,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 52,
+      "prev": "magoruv_nocni_zpev_055.html",
+      "next": "magoruv_nocni_zpev_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odchod z Oázy II.",
+      "file": "magoruv_nocni_zpev_057.html",
+      "words": 17,
+      "chars": 92,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 53,
+      "prev": "magoruv_nocni_zpev_056.html",
+      "next": "magoruv_nocni_zpev_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odchod z Oázy II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_058.html",
+      "words": 80,
+      "chars": 398,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 54,
+      "prev": "magoruv_nocni_zpev_057.html",
+      "next": "magoruv_nocni_zpev_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Důrazná řeč k Alžbětě Kopecké",
+      "file": "magoruv_nocni_zpev_059.html",
+      "words": 14,
+      "chars": 68,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 55,
+      "prev": "magoruv_nocni_zpev_058.html",
+      "next": "magoruv_nocni_zpev_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Důrazná řeč k Alžbětě Kopecké",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Olivero Malinovi",
+      "file": "magoruv_nocni_zpev_060.html",
+      "words": 7,
+      "chars": 40,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 56,
+      "prev": "magoruv_nocni_zpev_059.html",
+      "next": "magoruv_nocni_zpev_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Olivero Malinovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Literární kavárna v Řetězové",
+      "file": "magoruv_nocni_zpev_061.html",
+      "words": 45,
+      "chars": 235,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 57,
+      "prev": "magoruv_nocni_zpev_060.html",
+      "next": "magoruv_nocni_zpev_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Literární kavárna v Řetězové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_062.html",
+      "words": 59,
+      "chars": 287,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 58,
+      "prev": "magoruv_nocni_zpev_061.html",
+      "next": "magoruv_nocni_zpev_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_063.html",
+      "words": 49,
+      "chars": 247,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 59,
+      "prev": "magoruv_nocni_zpev_062.html",
+      "next": "magoruv_nocni_zpev_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fúzistovi (V.)",
+      "file": "magoruv_nocni_zpev_064.html",
+      "words": 69,
+      "chars": 431,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 60,
+      "prev": "magoruv_nocni_zpev_063.html",
+      "next": "magoruv_nocni_zpev_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fúzistovi (V.)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když jsme ve 23:21 hod. vyhazovali s výčepákem Jiřím Péťu z Oázy",
+      "file": "magoruv_nocni_zpev_065.html",
+      "words": 18,
+      "chars": 97,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 61,
+      "prev": "magoruv_nocni_zpev_064.html",
+      "next": "magoruv_nocni_zpev_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když jsme ve 23:21 hod. vyhazovali s výčepákem Jiřím Péťu z Oázy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Petrovi Bohunovskému",
+      "file": "magoruv_nocni_zpev_066.html",
+      "words": 67,
+      "chars": 383,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 62,
+      "prev": "magoruv_nocni_zpev_065.html",
+      "next": "magoruv_nocni_zpev_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Petrovi Bohunovskému",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epitaf",
+      "file": "magoruv_nocni_zpev_067.html",
+      "words": 47,
+      "chars": 233,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 63,
+      "prev": "magoruv_nocni_zpev_066.html",
+      "next": "magoruv_nocni_zpev_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epitaf",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zdeňkovi Mertovi",
+      "file": "magoruv_nocni_zpev_068.html",
+      "words": 52,
+      "chars": 329,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 64,
+      "prev": "magoruv_nocni_zpev_067.html",
+      "next": "magoruv_nocni_zpev_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zdeňkovi Mertovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_069.html",
+      "words": 59,
+      "chars": 283,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 65,
+      "prev": "magoruv_nocni_zpev_068.html",
+      "next": "magoruv_nocni_zpev_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marginálie k nejslavnější svatbě desetiletí",
+      "file": "magoruv_nocni_zpev_070.html",
+      "words": 71,
+      "chars": 420,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 66,
+      "prev": "magoruv_nocni_zpev_069.html",
+      "next": "magoruv_nocni_zpev_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marginálie k nejslavnější svatbě desetiletí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztichlá klika",
+      "file": "magoruv_nocni_zpev_071.html",
+      "words": 32,
+      "chars": 151,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 67,
+      "prev": "magoruv_nocni_zpev_070.html",
+      "next": "magoruv_nocni_zpev_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztichlá klika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Petrovi Uhlovi",
+      "file": "magoruv_nocni_zpev_072.html",
+      "words": 22,
+      "chars": 110,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 68,
+      "prev": "magoruv_nocni_zpev_071.html",
+      "next": "magoruv_nocni_zpev_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Petrovi Uhlovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_073.html",
+      "words": 20,
+      "chars": 90,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 69,
+      "prev": "magoruv_nocni_zpev_072.html",
+      "next": "magoruv_nocni_zpev_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když Péťa Vaněček po ránuhledal svůj joint",
+      "file": "magoruv_nocni_zpev_074.html",
+      "words": 104,
+      "chars": 562,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 70,
+      "prev": "magoruv_nocni_zpev_073.html",
+      "next": "magoruv_nocni_zpev_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když Péťa Vaněček po ránuhledal svůj joint",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jiřímu Rejtharovi",
+      "file": "magoruv_nocni_zpev_075.html",
+      "words": 23,
+      "chars": 116,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 71,
+      "prev": "magoruv_nocni_zpev_074.html",
+      "next": "magoruv_nocni_zpev_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jiřímu Rejtharovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Haně Brandejské",
+      "file": "magoruv_nocni_zpev_076.html",
+      "words": 28,
+      "chars": 161,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 72,
+      "prev": "magoruv_nocni_zpev_075.html",
+      "next": "magoruv_nocni_zpev_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Haně Brandejské",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_077.html",
+      "words": 52,
+      "chars": 283,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 73,
+      "prev": "magoruv_nocni_zpev_076.html",
+      "next": "magoruv_nocni_zpev_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_078.html",
+      "words": 37,
+      "chars": 171,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 74,
+      "prev": "magoruv_nocni_zpev_077.html",
+      "next": "magoruv_nocni_zpev_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –",
+      "file": "magoruv_nocni_zpev_079.html",
+      "words": 40,
+      "chars": 188,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 75,
+      "prev": "magoruv_nocni_zpev_078.html",
+      "next": "magoruv_nocni_zpev_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komentáře k jednotlivým textům",
+      "file": "magoruv_nocni_zpev_080.html",
+      "words": 163,
+      "chars": 1021,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 76,
+      "prev": "magoruv_nocni_zpev_079.html",
+      "next": "magoruv_nocni_zpev_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komentáře k jednotlivým textům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "magoruv_nocni_zpev_081.html",
+      "words": 96,
+      "chars": 700,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 77,
+      "prev": "magoruv_nocni_zpev_080.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 139,
+      "chars": 900,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "magoruv_nocni_zpev_081.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3606,
+      "chars": 19656,
+      "ideas": 926
+    },
+    "chapters": {
+      "words": 3459,
+      "chars": 18711,
+      "ideas": 907
+    }
+  }
+}

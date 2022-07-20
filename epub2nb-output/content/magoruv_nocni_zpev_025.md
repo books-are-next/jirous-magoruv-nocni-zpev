@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 28\.
+contentType: poetry
 ---
 
 <section>
-
-28.
 
 Když vstoupil jsem
 

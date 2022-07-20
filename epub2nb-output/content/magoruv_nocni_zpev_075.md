@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Jiřímu Rejtharovi
+contentType: poetry
 ---
 
 <section>
-
-Jiřímu Rejtharovi
 
 Musíš mít hroší kůži
 

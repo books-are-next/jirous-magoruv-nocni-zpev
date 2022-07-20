@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Za\_barem před barem"
+contentType: poetry
 ---
 
 <section>
-
-Za barem před barem
 
 Víš kolik je lidského neštěstí?
 

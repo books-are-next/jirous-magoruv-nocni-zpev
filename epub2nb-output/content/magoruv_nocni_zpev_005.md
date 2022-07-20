@@ -1,5 +1,7 @@
 ---
-contentType: prose
+title: ''
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nepodařený odchod zpod Komína
+contentType: poetry
 ---
 
 <section>
-
-Nepodařený odchod zpod Komína
 
 Odcházeje už
 

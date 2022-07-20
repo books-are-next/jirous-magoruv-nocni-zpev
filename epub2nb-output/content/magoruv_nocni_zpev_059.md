@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Důrazná řeč k\_Alžbětě Kopecké"
+contentType: poetry
 ---
 
 <section>
-
-Důrazná řeč  
-k Alžbětě Kopecké
 
 Kdo se nesnaží
 

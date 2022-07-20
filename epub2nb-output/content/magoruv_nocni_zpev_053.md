@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Petrovi Placákovi
+contentType: poetry
 ---
 
 <section>
-
-Petrovi Placákovi
 
 Seděl jsem U Smolíků
 

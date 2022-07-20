@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Odchod z\_Oázy"
+contentType: poetry
 ---
 
 <section>
-
-Odchod z Oázy
 
 Jiří,
 

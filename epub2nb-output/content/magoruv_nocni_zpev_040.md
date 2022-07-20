@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Na\_Neklance"
+contentType: poetry
 ---
 
 <section>
-
-Na Neklance
 
 Petru Bohunovskému
 

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 8\.
+contentType: poetry
 ---
 
 <section>
-
-8.
 
 Píše mi Petruška laskavě:
 

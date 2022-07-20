@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Petrovi Uhlovi
+contentType: poetry
 ---
 
 <section>
-
-Petrovi Uhlovi
 
 Souhlasí Petr s tím
 

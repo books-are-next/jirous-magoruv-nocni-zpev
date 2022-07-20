@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: 6\.Milostná I\.
+contentType: poetry
 ---
 
 <section>
-
-6.  
-Milostná I.
 
 Ach,
 

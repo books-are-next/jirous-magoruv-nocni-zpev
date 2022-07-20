@@ -1,12 +1,9 @@
 ---
-contentType: prose
+title: "30\\.Opatrná marginálie k\_současné vnitropolitické situaci"
+contentType: poetry
 ---
 
 <section>
-
-30.  
-Opatrná marginálie k současné  
-vnitropolitické situaci
 
 (s nepřehlédnutelnou aluzí na kultovní text z Magorových labutích písní)
 

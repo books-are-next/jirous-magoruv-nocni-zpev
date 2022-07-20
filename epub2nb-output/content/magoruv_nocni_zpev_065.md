@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Když jsme ve\_23:21 hod\\. vyhazovali s\_výčepákem Jiřím Péťu z\_Oázy"
+contentType: poetry
 ---
 
 <section>
-
-Když jsme ve 23:21 hod. vyhazovali  
-s výčepákem Jiřím Péťu z Oázy
 
 Zvýšil jsem vokál:
 

@@ -1,11 +1,9 @@
 ---
-contentType: prose
+title: "Morytát o\_tragédii v\_hospodě Pod Komínem"
+contentType: poetry
 ---
 
 <section>
-
-Morytát o tragédii v hospodě  
-Pod Komínem
 
 I.
 

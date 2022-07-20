@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: 9\.
+contentType: poetry
 ---
 
 <section>
-
-9.
 
 Tolik let strávil jsem bez antabusu
 

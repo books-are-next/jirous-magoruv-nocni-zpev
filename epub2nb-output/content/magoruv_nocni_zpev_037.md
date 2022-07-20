@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kopřiva
+contentType: poetry
 ---
 
 <section>
-
-Kopřiva
 
 (rekonstrukce)
 

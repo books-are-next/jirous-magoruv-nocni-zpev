@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Báseň pro Maruš
+contentType: poetry
 ---
 
 <section>
-
-Báseň pro Maruš
 
 Naposledy říkám ti,
 

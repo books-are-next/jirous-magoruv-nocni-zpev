@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ztichlá klika
+contentType: poetry
 ---
 
 <section>
-
-Ztichlá klika
 
 Ať se o nás
 

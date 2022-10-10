@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirous-magoruv-nocni-zpev-f709fef",
-  "revision": "f709fef",
+  "identifier": "jirous-magoruv-nocni-zpev-0881374",
+  "revision": "0881374",
   "readingOrder": [
     "promo.html",
     "magoruv_nocni_zpev_005.html",
@@ -92,8 +92,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:11:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151906776
+    "date": "Mon Oct 10 2022 16:03:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417813137
   },
   "documents": [
     {
@@ -1668,7 +1668,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 900,
+      "chars": 901,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1688,7 +1688,7 @@
   "totals": {
     "all": {
       "words": 3607,
-      "chars": 19656,
+      "chars": 19657,
       "ideas": 927
     },
     "chapters": {
